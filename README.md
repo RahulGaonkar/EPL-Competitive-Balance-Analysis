@@ -12,6 +12,6 @@ The English Premier League is the top level of the English football league syste
 The main goal of the project is to show how the distribution of teams changed based on league positions over different seasons and the game statistic metrics contributing to it. The project will try to convey how the traditional top 4 (Manchester United, Arsenal, Liverpool and Chelsea) and bottom 3 teams (relegated teams) changed over different seasons thereby emphasizing the competitive balance and unpredictability of EPL.  
 
 ## More
-[DEMO](https://nyu-vis-fall2018.github.io/storytelling-group-3-online/)
+[DEMO](https://rahulgaonkar.github.io/EPL-Competitive-Balance-Analysis/)
 
 [Project Description](Report/Information_Visualization_Project_Proposal.pdf)
