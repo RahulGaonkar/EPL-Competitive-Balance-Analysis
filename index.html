@@ -1,0 +1,120 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/epl.css">
+    <script src="scripts/d3.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider@1.3.1"></script>
+    <script src="scripts/epl.js"></script>
+  </head>
+  <body>
+    <div>
+      <img src="images/EPL_Logo.jpg" alt="EPL Logo" width="100%" height="900">
+    </div>
+    <h1 align="center"><strong>EPL Competitive Balance Analysis</strong></h1>
+    <h2 align="center"><strong>By Rahul Gaonkar, Achyut Tibrewalla and Divyanshu Singh | December 10, 2018</strong></h2>
+    <div class="article-text">
+      <p>
+        Competitive balance of league competitions is an important component of sport economics. Evidence suggests that a less attractive product
+        might struggle to command a high market value. Thus, it is imperative that sport leagues remain competitively balanced with a degree of
+        uncertainty of outcome. Forget the NBA, NFL or Major League Baseball - no domestic competition provokes more interest worldwide than the
+        English Premier League. It might not be the best quality football like La Liga but nothing matches the EPL for drama, storylines, action
+        and tribal rivalry. The English Premier League is the top level of the English football league system. Contested by 20 clubs, it operates
+        on a system of promotion and relegation. The top 4 teams of the English Premier League get qualified for the <a href="https://en.wikipedia.org/wiki/UEFA_Champions_League">UEFA Champions League</a>.
+        The bottom 3 teams get relegated to a lower division league (<a href="https://en.wikipedia.org/wiki/EFL_Championship">EFL Championship</a>).
+      </p>
+      <p>
+        Over the years, the utterly unpredictable EPL has revealed a new reality: The traditional top four isn’t the invincible force it used to be.
+        For much of the last decade you could depend on the same four teams qualifying for the league’s allotted Champions League spaces: Arsenal,
+        Chelsea, Liverpool and Manchester United. But Manchester City, Tottenham Hotspur and Leicester City are hoping to take advantage now. Also,
+        a wide range of teams have been in bottom four indicating the topsy turvy nature of the EPL.
+      </p>
+    </div>
+    <h3 align="center">What is the distribution of teams over different seasons based on league positions ?</h3>
+    <div class="divBox">
+      <svg id="Box1"></svg>
+      <svg id="Legend1"></svg>
+    </div>
+    <div class="article-text">
+      <p>
+        Clubs like Manchester United and Liverpool who usually competed for the top 4 had poor seasons and dropped out of the reckoning entirely, after the
+        change of managers and players. Arsenal consistently finished inside the Premier League’s top four, continuing Arsene Wenger’s unblemished record of
+        qualifying for the Champions League. Also, Chelsea have been in the top four race accounting to their financial and squad stability. Manchester City
+        entered the top 4 group due to the wealth of their current owners, who bought them in 2008 and have consistently been there after extensive squad
+        restructuring. Tottenham Hotspur have also given up on their inherent "Spursiness" and are ready for glory with the likes of Gareth Bale, Luka Modrić
+        and Harry Kane. Similarly, it’s not unheard of for a team that would usually be considered lower order to make their way into the top half of the league,
+        and even challenge for the European qualification positions. Once thought to be candidates for relegation, Leicester City have been the biggest shock in
+        EPL when they won the 2015/2016 season considering the team’s comparative lack of resources and big-name players.
+      </p>
+      <p>
+        But where the Premier League, seems to have separated itself from the rest is at the other end of the table. It’s certainly debatable about the technical
+        quality and tactical approach of some teams at the lower echelons, especially around the relegation zone. But what can’t be doubted is entertainment. Pit
+        any of the teams at the bottom end against teams at the top, and while victory is highly unlikely, you’re often assured of something riveting. I hate to
+        say it, but unlike other leagues, they don't just roll over to accept their fate which is evident from the wide range of teams in bottom four. Of course,
+        the prospect of relegation for these clubs is huge. But that’s what makes it so thrilling: risking everything to stay alive. To stay in the top flight,
+        and dream of being the next Leicester City.
+      </p>
+      <p>
+        This competitive balance – which can roughly be defined as the extent to which any team can beat any other team has created more uncertain outcomes and an
+        increase in match attendances, television audiences and overall interest. So it may be that the global popularity of EPL compared to other sports is,
+        in part, a consequence of it being “competitively balanced”. Measuring competitive balance – and unpredictability – is a complicated issue. Most measures
+        use reasonable game statistic metrics like the spread of goal difference, total passes completed and the proportion of wins, draws, losses of all the teams over
+        different seasons.
+      </p>
+    </div>
+    <h3 align="center">Does the game statistics influence the league position of teams in a season?</h3>
+    <br>
+    <h5 align="center">EPL SEASON START YEAR</h5>
+    <div class="slider">
+      <div>
+         <a href="javascript:prevSliderValue()" class="slider-button-prev">&#8249;</a>
+      </div>
+      <div id="slider"></div>
+      <div>
+         <a href="javascript:nextSliderValue()" class="slider-button-next">&#8250;</a>
+      </div>
+    </div>
+    <div class="mainView">
+      <div class="childDivBox">
+        <svg id="Box2"></svg>
+        <svg id="Legend2"></svg>
+      </div>
+      <div class="childDivBox">
+        <svg id="Box3"></svg>
+      </div>
+      <div class="childDivBox">
+        <svg id="Box4"></svg>
+      </div>
+    </div>
+    <div class="article-text">
+      <p>
+        The no-nonsense style of British football is the oldest style of football known and it is still being applied in the Premier League. EPL style of play is
+        attacking in nature and involves high pace box-to-box movement; this is because teams try to get the ball as quickly as possible to the final third
+        to create more scoring opportunities. Owing to the style of play, generally number of wins are more influential in deciding the league position of the
+        teams in a season rather than the proportion of number of wins and draws. Also, the teams placed at higher league positions have a positive
+        goal difference (difference of goal scored and goals conceded) and higher ball posession i.e. higher number of passes completed as compared to the teams
+        placed at lower league positions which have a negative goal difference (difference of goal scored and goals conceded) and lower ball posession i.e. lower
+        number of passes completed.
+      </p>
+      <p>
+        Considering the competitive balance in EPL, we can see constant fluctuations in these game statistics. Some significant fluctuations like Manchester City
+        had a negative goal difference in season 2006/2007 and 2007/2008 and improved on their goal difference since then after their squad restructuring which
+        helped them improve their league position and enter in the top 4 group. Also, Leicester city had a negative goal difference since getting promoted in EPL
+        except for the season 2015/2016 when they won the league. In addition to goal difference, they also showcased an overall improvement in the number
+        of wins and number of passes completed.
+      </p>
+      <p>
+        EPL is a competition that retains an intrinsic sense of unpredictability and unchoreographed madness making it the most lucrative football division in the
+        world. This is the paradox of the Premier League: it is the most popular league partly because it hasn’t got a monopoly on the best teams. Effectively it
+        embraces a trade-off – slightly diluting the quality of the very best teams, in return for having a more competitive overall field.
+      </p>
+    </div>
+    <div class="footer">
+      <hr>
+      <p>
+        Sources: <a href="http://www.bbcamerica.com/anglophenia/2014/08/10-things-know-english-premier-league">Things You Should Know About the EPL</a>,
+        <a href="https://nypost.com/2016/01/25/premier-leagues-top-4-is-done-as-we-know-it/">EPL Top 4</a>, <a href="https://theworldgame.sbs.com.au/how-unpredictability-saved-the-premier-league">Unpredictability in EPL</a>,
+        <a href="https://en.wikipedia.org/wiki/Premier_League">Premier League</a>, <a href="https://theconversation.com/just-how-unpredictable-is-the-premier-league-scientists-have-done-the-maths-59839">Measuring competitive balance</a>,
+        <a href="https://www.quora.com/What-is-the-difference-between-Spanish-British-German-Italian-and-French-styles-of-club-football">EPL Style of Play</a>
+      </p>
+    </div>
+  </body>
+</html>
