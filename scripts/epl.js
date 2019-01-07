@@ -3,8 +3,8 @@ let slider = {};
 
 function loadData() {
   return Promise.all([
-      d3.csv("data/epl_league_stats.csv"),
-      d3.csv("data/epl_league_stats_with_NP_Teams.csv")
+      d3.csv("cleaned_datasets/epl_league_stats.csv"),
+      d3.csv("cleaned_datasets/epl_league_stats_with_NP_Teams.csv")
   ]).then(datasets => {
       store.data = datasets[0];
       store.data1 = datasets[1];
