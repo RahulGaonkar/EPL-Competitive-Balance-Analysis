@@ -1,0 +1,1344 @@
+year,title,Team,A,D,F,GD,L,P,Pos,Pts,W
+2016/2017,Premier League 2016-2017,Chelsea,33,3,85,52,5,38,1,93,30
+2016/2017,Premier League 2016-2017,Tottenham Hotspurs,26,8,86,60,4,38,2,86,26
+2016/2017,Premier League 2016-2017,Manchester City,39,9,80,41,6,38,3,78,23
+2016/2017,Premier League 2016-2017,Liverpool,42,10,78,36,6,38,4,76,22
+2016/2017,Premier League 2016-2017,Arsenal,44,6,77,33,9,38,5,75,23
+2016/2017,Premier League 2016-2017,Manchester United,29,15,54,25,5,38,6,69,18
+2016/2017,Premier League 2016-2017,Everton,44,10,62,18,11,38,7,61,17
+2016/2017,Premier League 2016-2017,Southampton,48,10,41,-7,16,38,8,46,12
+2016/2017,Premier League 2016-2017,Bournemouth,67,10,55,-12,16,38,9,46,12
+2016/2017,Premier League 2016-2017,West Bromwich Albion,51,9,43,-8,17,38,10,45,12
+2016/2017,Premier League 2016-2017,West Ham United,64,9,47,-17,17,38,11,45,12
+2016/2017,Premier League 2016-2017,Leicester City,63,8,48,-15,18,38,12,44,12
+2016/2017,Premier League 2016-2017,Stoke City,56,11,41,-15,16,38,13,44,11
+2016/2017,Premier League 2016-2017,Crystal Palace,63,5,50,-13,21,38,14,41,12
+2016/2017,Premier League 2016-2017,Swansea City,70,5,45,-25,21,38,15,41,12
+2016/2017,Premier League 2016-2017,Burnley,55,7,39,-16,20,38,16,40,11
+2016/2017,Premier League 2016-2017,Watford,68,7,40,-28,20,38,17,40,11
+2016/2017,Premier League 2016-2017,Hull City,80,7,37,-43,22,38,18,34,9
+2016/2017,Premier League 2016-2017,Middlesbrough,53,13,27,-26,20,38,19,28,5
+2016/2017,Premier League 2016-2017,Sunderland,69,6,29,-40,26,38,20,24,6
+2014/2015,Barclaycard Premier League 2014-2015,Chelsea,32,9,73,41,3,38,1,87,26
+2014/2015,Barclaycard Premier League 2014-2015,Manchester City,38,7,83,45,7,38,2,79,24
+2014/2015,Barclaycard Premier League 2014-2015,Arsenal,36,9,71,35,7,38,3,75,22
+2014/2015,Barclaycard Premier League 2014-2015,Manchester United,37,10,62,25,8,38,4,70,20
+2014/2015,Barclaycard Premier League 2014-2015,Tottenham Hotspurs,53,7,58,5,12,38,5,64,19
+2014/2015,Barclaycard Premier League 2014-2015,Liverpool,48,8,52,4,12,38,6,62,18
+2014/2015,Barclaycard Premier League 2014-2015,Southampton,33,6,54,21,14,38,7,60,18
+2014/2015,Barclaycard Premier League 2014-2015,Swansea City,49,8,46,-3,14,38,8,56,16
+2014/2015,Barclaycard Premier League 2014-2015,Stoke City,45,9,48,3,14,38,9,54,15
+2014/2015,Barclaycard Premier League 2014-2015,Crystal Palace,51,9,47,-4,16,38,10,48,13
+2014/2015,Barclaycard Premier League 2014-2015,Everton,50,11,48,-2,15,38,11,47,12
+2014/2015,Barclaycard Premier League 2014-2015,West Ham United,47,11,44,-3,15,38,12,47,12
+2014/2015,Barclaycard Premier League 2014-2015,West Bromwich Albion,51,11,38,-13,16,38,13,44,11
+2014/2015,Barclaycard Premier League 2014-2015,Leicester City,55,8,46,-9,19,38,14,41,11
+2014/2015,Barclaycard Premier League 2014-2015,Newcastle United,63,9,40,-23,19,38,15,39,10
+2014/2015,Barclaycard Premier League 2014-2015,Sunderland,53,17,31,-22,14,38,16,38,7
+2014/2015,Barclaycard Premier League 2014-2015,Aston Villa,57,8,31,-26,20,38,17,38,10
+2014/2015,Barclaycard Premier League 2014-2015,Hull City,51,11,33,-18,19,38,18,35,8
+2014/2015,Barclaycard Premier League 2014-2015,Burnley,53,12,28,-25,19,38,19,33,7
+2014/2015,Barclaycard Premier League 2014-2015,Queens Park Rangers,73,6,42,-31,24,38,20,30,8
+2013/2014,Barclaycard Premier League 2013-2014,Manchester City,37,5,102,65,6,38,1,86,27
+2013/2014,Barclaycard Premier League 2013-2014,Liverpool,50,6,101,51,6,38,2,84,26
+2013/2014,Barclaycard Premier League 2013-2014,Chelsea,27,7,71,44,6,38,3,82,25
+2013/2014,Barclaycard Premier League 2013-2014,Arsenal,41,7,68,27,7,38,4,79,24
+2013/2014,Barclaycard Premier League 2013-2014,Everton,39,9,61,22,8,38,5,72,21
+2013/2014,Barclaycard Premier League 2013-2014,Tottenham Hotspurs,51,6,55,4,11,38,6,69,21
+2013/2014,Barclaycard Premier League 2013-2014,Manchester United,43,7,64,21,12,38,7,64,19
+2013/2014,Barclaycard Premier League 2013-2014,Southampton,46,11,54,8,12,38,8,56,15
+2013/2014,Barclaycard Premier League 2013-2014,Stoke City,52,11,45,-7,14,38,9,50,13
+2013/2014,Barclaycard Premier League 2013-2014,Newcastle United,59,4,43,-16,19,38,10,49,15
+2013/2014,Barclaycard Premier League 2013-2014,Crystal Palace,48,6,33,-15,19,38,11,45,13
+2013/2014,Barclaycard Premier League 2013-2014,Swansea City,54,9,54,0,18,38,12,42,11
+2013/2014,Barclaycard Premier League 2013-2014,West Ham United,51,7,40,-11,20,38,13,40,11
+2013/2014,Barclaycard Premier League 2013-2014,Sunderland,60,8,41,-19,20,38,14,38,10
+2013/2014,Barclaycard Premier League 2013-2014,Aston Villa,61,8,39,-22,20,38,15,38,10
+2013/2014,Barclaycard Premier League 2013-2014,Hull City,53,7,38,-15,21,38,16,37,10
+2013/2014,Barclaycard Premier League 2013-2014,West Bromwich Albion,59,15,43,-16,16,38,17,36,7
+2013/2014,Barclaycard Premier League 2013-2014,Norwich City,62,9,28,-34,21,38,18,33,8
+2013/2014,Barclaycard Premier League 2013-2014,Fulham,85,5,40,-45,24,38,19,32,9
+2013/2014,Barclaycard Premier League 2013-2014,Cardiff City,74,9,32,-42,22,38,20,30,7
+2012/2013,Barclaycard Premier League 2012-2013,Manchester United,43,5,86,43,5,38,1,89,28
+2012/2013,Barclaycard Premier League 2012-2013,Manchester City,34,9,66,32,6,38,2,78,23
+2012/2013,Barclaycard Premier League 2012-2013,Chelsea,39,9,75,36,7,38,3,75,22
+2012/2013,Barclaycard Premier League 2012-2013,Arsenal,37,10,72,35,7,38,4,73,21
+2012/2013,Barclaycard Premier League 2012-2013,Tottenham Hotspurs,46,9,66,20,8,38,5,72,21
+2012/2013,Barclaycard Premier League 2012-2013,Everton,40,15,55,15,7,38,6,63,16
+2012/2013,Barclaycard Premier League 2012-2013,Liverpool,43,13,71,28,9,38,7,61,16
+2012/2013,Barclaycard Premier League 2012-2013,West Bromwich Albion,57,7,53,-4,17,38,8,49,14
+2012/2013,Barclaycard Premier League 2012-2013,Swansea City,51,13,47,-4,14,38,9,46,11
+2012/2013,Barclaycard Premier League 2012-2013,West Ham United,53,10,45,-8,16,38,10,46,12
+2012/2013,Barclaycard Premier League 2012-2013,Norwich City,58,14,41,-17,14,38,11,44,10
+2012/2013,Barclaycard Premier League 2012-2013,Fulham,60,10,50,-10,17,38,12,43,11
+2012/2013,Barclaycard Premier League 2012-2013,Stoke City,45,15,34,-11,14,38,13,42,9
+2012/2013,Barclaycard Premier League 2012-2013,Southampton,60,14,49,-11,15,38,14,41,9
+2012/2013,Barclaycard Premier League 2012-2013,Aston Villa,69,11,47,-22,17,38,15,41,10
+2012/2013,Barclaycard Premier League 2012-2013,Newcastle United,68,8,45,-23,19,38,16,41,11
+2012/2013,Barclaycard Premier League 2012-2013,Sunderland,54,12,41,-13,17,38,17,39,9
+2012/2013,Barclaycard Premier League 2012-2013,Wigan,73,9,47,-26,20,38,18,36,9
+2012/2013,Barclaycard Premier League 2012-2013,Reading,73,10,43,-30,22,38,19,28,6
+2012/2013,Barclaycard Premier League 2012-2013,Queens Park Rangers,60,13,30,-30,21,38,20,25,4
+2011/2012,Barclaycard Premier League 2011-2012,Manchester City,29,5,93,64,5,38,1,89,28
+2011/2012,Barclaycard Premier League 2011-2012,Manchester United,33,5,89,56,5,38,2,89,28
+2011/2012,Barclaycard Premier League 2011-2012,Arsenal,49,7,74,25,10,38,3,70,21
+2011/2012,Barclaycard Premier League 2011-2012,Tottenham Hotspurs,41,9,66,25,9,38,4,69,20
+2011/2012,Barclaycard Premier League 2011-2012,Newcastle United,51,8,56,5,11,38,5,65,19
+2011/2012,Barclaycard Premier League 2011-2012,Chelsea,46,10,65,19,10,38,6,64,18
+2011/2012,Barclaycard Premier League 2011-2012,Everton,40,11,50,10,12,38,7,56,15
+2011/2012,Barclaycard Premier League 2011-2012,Liverpool,40,10,47,7,14,38,8,52,14
+2011/2012,Barclaycard Premier League 2011-2012,Fulham,51,10,48,-3,14,38,9,52,14
+2011/2012,Barclaycard Premier League 2011-2012,West Bromwich Albion,52,8,45,-7,17,38,10,47,13
+2011/2012,Barclaycard Premier League 2011-2012,Swansea City,51,11,44,-7,15,38,11,47,12
+2011/2012,Barclaycard Premier League 2011-2012,Norwich City,66,11,52,-14,15,38,12,47,12
+2011/2012,Barclaycard Premier League 2011-2012,Sunderland,46,12,45,-1,15,38,13,45,11
+2011/2012,Barclaycard Premier League 2011-2012,Stoke City,53,12,36,-17,15,38,14,45,11
+2011/2012,Barclaycard Premier League 2011-2012,Wigan,62,10,42,-20,17,38,15,43,11
+2011/2012,Barclaycard Premier League 2011-2012,Aston Villa,53,17,37,-16,14,38,16,38,7
+2011/2012,Barclaycard Premier League 2011-2012,Queens Park Rangers,66,7,43,-23,21,38,17,37,10
+2011/2012,Barclaycard Premier League 2011-2012,Bolton Wanderers,77,6,46,-31,22,38,18,36,10
+2011/2012,Barclaycard Premier League 2011-2012,Blackburn Rovers,78,7,48,-30,23,38,19,31,8
+2011/2012,Barclaycard Premier League 2011-2012,Wolverhampton Wanderers,82,10,40,-42,23,38,20,25,5
+2010/2011,Barclaycard Premier League 2010-2011,Manchester United,37,11,78,41,4,38,1,80,23
+2010/2011,Barclaycard Premier League 2010-2011,Chelsea,33,8,69,36,9,38,2,71,21
+2010/2011,Barclaycard Premier League 2010-2011,Manchester City,33,8,60,27,9,38,3,71,21
+2010/2011,Barclaycard Premier League 2010-2011,Arsenal,43,11,72,29,8,38,4,68,19
+2010/2011,Barclaycard Premier League 2010-2011,Tottenham Hotspurs,46,14,55,9,8,38,5,62,16
+2010/2011,Barclaycard Premier League 2010-2011,Liverpool,44,7,59,15,14,38,6,58,17
+2010/2011,Barclaycard Premier League 2010-2011,Everton,45,15,51,6,10,38,7,54,13
+2010/2011,Barclaycard Premier League 2010-2011,Fulham,43,16,49,6,11,38,8,49,11
+2010/2011,Barclaycard Premier League 2010-2011,Aston Villa,59,12,48,-11,14,38,9,48,12
+2010/2011,Barclaycard Premier League 2010-2011,Sunderland,56,11,45,-11,15,38,10,47,12
+2010/2011,Barclaycard Premier League 2010-2011,West Bromwich Albion,71,11,56,-15,15,38,11,47,12
+2010/2011,Barclaycard Premier League 2010-2011,Newcastle United,57,13,56,-1,14,38,12,46,11
+2010/2011,Barclaycard Premier League 2010-2011,Stoke City,48,7,46,-2,18,38,13,46,13
+2010/2011,Barclaycard Premier League 2010-2011,Bolton Wanderers,56,10,52,-4,16,38,14,46,12
+2010/2011,Barclaycard Premier League 2010-2011,Blackburn Rovers,59,10,46,-13,17,38,15,43,11
+2010/2011,Barclaycard Premier League 2010-2011,Wigan,61,15,40,-21,14,38,16,42,9
+2010/2011,Barclaycard Premier League 2010-2011,Wolverhampton Wanderers,66,7,46,-20,20,38,17,40,11
+2010/2011,Barclaycard Premier League 2010-2011,Birmingham City,58,15,37,-21,15,38,18,39,8
+2010/2011,Barclaycard Premier League 2010-2011,Blackpool,78,9,55,-23,19,38,19,39,10
+2010/2011,Barclaycard Premier League 2010-2011,West Ham United,70,12,43,-27,19,38,20,33,7
+2009/2010,Barclaycard Premier League 2009-2010,Chelsea,32,5,103,71,6,38,1,86,27
+2009/2010,Barclaycard Premier League 2009-2010,Manchester United,28,4,86,58,7,38,2,85,27
+2009/2010,Barclaycard Premier League 2009-2010,Arsenal,41,6,83,42,9,38,3,75,23
+2009/2010,Barclaycard Premier League 2009-2010,Tottenham Hotspurs,41,7,67,26,10,38,4,70,21
+2009/2010,Barclaycard Premier League 2009-2010,Manchester City,45,13,73,28,7,38,5,67,18
+2009/2010,Barclaycard Premier League 2009-2010,Aston Villa,39,13,52,13,8,38,6,64,17
+2009/2010,Barclaycard Premier League 2009-2010,Liverpool,35,9,61,26,11,38,7,63,18
+2009/2010,Barclaycard Premier League 2009-2010,Everton,49,13,60,11,9,38,8,61,16
+2009/2010,Barclaycard Premier League 2009-2010,Birmingham City,47,11,38,-9,14,38,9,50,13
+2009/2010,Barclaycard Premier League 2009-2010,Blackburn Rovers,55,11,41,-14,14,38,10,50,13
+2009/2010,Barclaycard Premier League 2009-2010,Stoke City,48,14,34,-14,13,38,11,47,11
+2009/2010,Barclaycard Premier League 2009-2010,Fulham,46,10,39,-7,16,38,12,46,12
+2009/2010,Barclaycard Premier League 2009-2010,Sunderland,56,11,48,-8,16,38,13,44,11
+2009/2010,Barclaycard Premier League 2009-2010,Bolton Wanderers,67,9,42,-25,19,38,14,39,10
+2009/2010,Barclaycard Premier League 2009-2010,Wolverhampton Wanderers,56,11,32,-24,18,38,15,38,9
+2009/2010,Barclaycard Premier League 2009-2010,Wigan,79,9,37,-42,20,38,16,36,9
+2009/2010,Barclaycard Premier League 2009-2010,West Ham United,66,11,47,-19,19,38,17,35,8
+2009/2010,Barclaycard Premier League 2009-2010,Burnley,82,6,42,-40,24,38,18,30,8
+2009/2010,Barclaycard Premier League 2009-2010,Hull City,75,12,34,-41,20,38,19,30,6
+2009/2010,Barclaycard Premier League 2009-2010,Portsmouth,66,7,34,-32,24,38,20,19,7
+2008/2009,Barclaycard Premier League 2008-2009,Manchester United,24,6,68,44,4,38,1,90,28
+2008/2009,Barclaycard Premier League 2008-2009,Liverpool,27,11,77,50,2,38,2,86,25
+2008/2009,Barclaycard Premier League 2008-2009,Chelsea,24,8,68,44,5,38,3,83,25
+2008/2009,Barclaycard Premier League 2008-2009,Arsenal,37,12,68,31,6,38,4,72,20
+2008/2009,Barclaycard Premier League 2008-2009,Everton,37,12,55,18,9,38,5,63,17
+2008/2009,Barclaycard Premier League 2008-2009,Aston Villa,48,11,54,6,10,38,6,62,17
+2008/2009,Barclaycard Premier League 2008-2009,Fulham,34,11,39,5,13,38,7,53,14
+2008/2009,Barclaycard Premier League 2008-2009,Tottenham Hotspurs,45,9,45,0,15,38,8,51,14
+2008/2009,Barclaycard Premier League 2008-2009,West Ham United,45,9,42,-3,15,38,9,51,14
+2008/2009,Barclaycard Premier League 2008-2009,Manchester City,50,5,58,8,18,38,10,50,15
+2008/2009,Barclaycard Premier League 2008-2009,Wigan,45,9,34,-11,17,38,11,45,12
+2008/2009,Barclaycard Premier League 2008-2009,Stoke City,55,9,38,-17,17,38,12,45,12
+2008/2009,Barclaycard Premier League 2008-2009,Bolton Wanderers,53,8,41,-12,19,38,13,41,11
+2008/2009,Barclaycard Premier League 2008-2009,Portsmouth,57,11,38,-19,17,38,14,41,10
+2008/2009,Barclaycard Premier League 2008-2009,Blackburn Rovers,60,11,40,-20,17,38,15,41,10
+2008/2009,Barclaycard Premier League 2008-2009,Sunderland,54,9,34,-20,20,38,16,36,9
+2008/2009,Barclaycard Premier League 2008-2009,Hull City,64,11,39,-25,19,38,17,35,8
+2008/2009,Barclaycard Premier League 2008-2009,Newcastle United,59,13,40,-19,18,38,18,34,7
+2008/2009,Barclaycard Premier League 2008-2009,Middlesbrough,57,11,28,-29,20,38,19,32,7
+2008/2009,Barclaycard Premier League 2008-2009,West Bromwich Albion,67,8,36,-31,22,38,20,32,8
+2007/2008,Barclaycard Premier League 2007-2008,Manchester United,22,6,80,58,5,38,1,87,27
+2007/2008,Barclaycard Premier League 2007-2008,Chelsea,26,10,65,39,3,38,2,85,25
+2007/2008,Barclaycard Premier League 2007-2008,Arsenal,31,11,75,44,3,38,3,83,24
+2007/2008,Barclaycard Premier League 2007-2008,Liverpool,28,13,67,39,4,38,4,76,21
+2007/2008,Barclaycard Premier League 2007-2008,Everton,33,8,55,22,11,38,5,65,19
+2007/2008,Barclaycard Premier League 2007-2008,Aston Villa,51,12,71,20,10,38,6,60,16
+2007/2008,Barclaycard Premier League 2007-2008,Blackburn Rovers,48,13,50,2,10,38,7,58,15
+2007/2008,Barclaycard Premier League 2007-2008,Portsmouth,40,9,48,8,13,38,8,57,16
+2007/2008,Barclaycard Premier League 2007-2008,Manchester City,53,10,45,-8,13,38,9,55,15
+2007/2008,Barclaycard Premier League 2007-2008,West Ham United,50,10,42,-8,15,38,10,49,13
+2007/2008,Barclaycard Premier League 2007-2008,Tottenham Hotspurs,61,13,66,5,14,38,11,46,11
+2007/2008,Barclaycard Premier League 2007-2008,Newcastle United,65,10,45,-20,17,38,12,43,11
+2007/2008,Barclaycard Premier League 2007-2008,Middlesbrough,53,12,43,-10,16,38,13,42,10
+2007/2008,Barclaycard Premier League 2007-2008,Wigan,51,10,34,-17,18,38,14,40,10
+2007/2008,Barclaycard Premier League 2007-2008,Sunderland,60,6,36,-24,21,38,15,39,11
+2007/2008,Barclaycard Premier League 2007-2008,Bolton Wanderers,54,10,36,-18,19,38,16,37,9
+2007/2008,Barclaycard Premier League 2007-2008,Fulham,60,12,38,-22,18,38,17,36,8
+2007/2008,Barclaycard Premier League 2007-2008,Reading,66,6,41,-25,22,38,18,36,10
+2007/2008,Barclaycard Premier League 2007-2008,Birmingham City,62,11,46,-16,19,38,19,35,8
+2007/2008,Barclaycard Premier League 2007-2008,Derby County,89,8,20,-69,29,38,20,11,1
+2006/2007,Barclaycard Premier League 2006-2007,Manchester United,27,5,83,56,5,38,1,89,28
+2006/2007,Barclaycard Premier League 2006-2007,Chelsea,24,11,64,40,3,38,2,83,24
+2006/2007,Barclaycard Premier League 2006-2007,Liverpool,27,8,57,30,10,38,3,68,20
+2006/2007,Barclaycard Premier League 2006-2007,Arsenal,35,11,63,28,8,38,4,68,19
+2006/2007,Barclaycard Premier League 2006-2007,Tottenham Hotspurs,54,9,57,3,12,38,5,60,17
+2006/2007,Barclaycard Premier League 2006-2007,Everton,36,13,52,16,10,38,6,58,15
+2006/2007,Barclaycard Premier League 2006-2007,Bolton Wanderers,52,8,47,-5,14,38,7,56,16
+2006/2007,Barclaycard Premier League 2006-2007,Reading,47,7,52,5,15,38,8,55,16
+2006/2007,Barclaycard Premier League 2006-2007,Portsmouth,42,12,45,3,12,38,9,54,14
+2006/2007,Barclaycard Premier League 2006-2007,Blackburn Rovers,54,7,52,-2,16,38,10,52,15
+2006/2007,Barclaycard Premier League 2006-2007,Aston Villa,41,17,43,2,10,38,11,50,11
+2006/2007,Barclaycard Premier League 2006-2007,Middlesbrough,49,10,44,-5,16,38,12,46,12
+2006/2007,Barclaycard Premier League 2006-2007,Newcastle United,47,10,38,-9,17,38,13,43,11
+2006/2007,Barclaycard Premier League 2006-2007,Manchester City,44,9,29,-15,18,38,14,42,11
+2006/2007,Barclaycard Premier League 2006-2007,West Ham United,59,5,35,-24,21,38,15,41,12
+2006/2007,Barclaycard Premier League 2006-2007,Fulham,60,15,38,-22,15,38,16,39,8
+2006/2007,Barclaycard Premier League 2006-2007,Wigan,59,8,37,-22,20,38,17,38,10
+2006/2007,Barclaycard Premier League 2006-2007,Sheffield United,55,8,32,-23,20,38,18,38,10
+2006/2007,Barclaycard Premier League 2006-2007,Charlton Athletic,60,10,34,-26,20,38,19,34,8
+2006/2007,Barclaycard Premier League 2006-2007,Watford,59,13,29,-30,20,38,20,28,5
+2005/6,Barclaycard Premier League 2005-2006,Chelsea,22,4,72,50,5,38,1,91,29
+2005/6,Barclaycard Premier League 2005-2006,Manchester United,34,8,72,38,5,38,2,83,25
+2005/6,Barclaycard Premier League 2005-2006,Liverpool,25,7,57,32,6,38,3,82,25
+2005/6,Barclaycard Premier League 2005-2006,Arsenal,31,7,68,37,11,38,4,67,20
+2005/6,Barclaycard Premier League 2005-2006,Tottenham Hotspurs,38,11,53,15,9,38,5,65,18
+2005/6,Barclaycard Premier League 2005-2006,Blackburn Rovers,42,6,51,9,13,38,6,63,19
+2005/6,Barclaycard Premier League 2005-2006,Newcastle United,42,7,47,5,14,38,7,58,17
+2005/6,Barclaycard Premier League 2005-2006,Bolton Wanderers,41,11,49,8,12,38,8,56,15
+2005/6,Barclaycard Premier League 2005-2006,West Ham United,55,7,52,-3,15,38,9,55,16
+2005/6,Barclaycard Premier League 2005-2006,Wigan,52,6,45,-7,17,38,10,51,15
+2005/6,Barclaycard Premier League 2005-2006,Everton,49,8,34,-15,16,38,11,50,14
+2005/6,Barclaycard Premier League 2005-2006,Fulham,58,6,48,-10,18,38,12,48,14
+2005/6,Barclaycard Premier League 2005-2006,Charlton Athletic,55,8,41,-14,17,38,13,47,13
+2005/6,Barclaycard Premier League 2005-2006,Middlesbrough,58,9,48,-10,17,38,14,45,12
+2005/6,Barclaycard Premier League 2005-2006,Manchester City,48,4,43,-5,21,38,15,43,13
+2005/6,Barclaycard Premier League 2005-2006,Aston Villa,55,12,42,-13,16,38,16,42,10
+2005/6,Barclaycard Premier League 2005-2006,Portsmouth,62,8,37,-25,20,38,17,38,10
+2005/6,Barclaycard Premier League 2005-2006,Birmingham City,50,10,28,-22,20,38,18,34,8
+2005/6,Barclaycard Premier League 2005-2006,West Bromwich Albion,58,9,31,-27,22,38,19,30,7
+2005/6,Barclaycard Premier League 2005-2006,Sunderland,69,6,26,-43,29,38,20,15,3
+2004/5,Barclaycard Premier League 2004-2005,Chelsea,15,8,72,57,1,38,1,95,29
+2004/5,Barclaycard Premier League 2004-2005,Arsenal,36,8,87,51,5,38,2,83,25
+2004/5,Barclaycard Premier League 2004-2005,Manchester United,26,11,58,32,5,38,3,77,22
+2004/5,Barclaycard Premier League 2004-2005,Everton,46,7,45,-1,13,38,4,61,18
+2004/5,Barclaycard Premier League 2004-2005,Liverpool,41,7,52,11,14,38,5,58,17
+2004/5,Barclaycard Premier League 2004-2005,Bolton Wanderers,44,10,49,5,12,38,6,58,16
+2004/5,Barclaycard Premier League 2004-2005,Middlesbrough,46,13,53,7,11,38,7,55,14
+2004/5,Barclaycard Premier League 2004-2005,Manchester City,39,13,47,8,12,38,8,52,13
+2004/5,Barclaycard Premier League 2004-2005,Tottenham Hotspurs,41,10,47,6,14,38,9,52,14
+2004/5,Barclaycard Premier League 2004-2005,Aston Villa,52,11,45,-7,15,38,10,47,12
+2004/5,Barclaycard Premier League 2004-2005,Charlton Athletic,58,10,42,-16,16,38,11,46,12
+2004/5,Barclaycard Premier League 2004-2005,Birmingham City,46,12,40,-6,15,38,12,45,11
+2004/5,Barclaycard Premier League 2004-2005,Fulham,60,8,52,-8,18,38,13,44,12
+2004/5,Barclaycard Premier League 2004-2005,Newcastle United,57,14,47,-10,14,38,14,44,10
+2004/5,Barclaycard Premier League 2004-2005,Blackburn Rovers,43,15,32,-11,14,38,15,42,9
+2004/5,Barclaycard Premier League 2004-2005,Portsmouth,59,9,43,-16,19,38,16,39,10
+2004/5,Barclaycard Premier League 2004-2005,West Bromwich Albion,61,16,36,-25,16,38,17,34,6
+2004/5,Barclaycard Premier League 2004-2005,Crystal Palace,62,12,41,-21,19,38,18,33,7
+2004/5,Barclaycard Premier League 2004-2005,Norwich City,77,12,42,-35,19,38,19,33,7
+2004/5,Barclaycard Premier League 2004-2005,Southampton,66,14,45,-21,18,38,20,32,6
+2003/4,Barclaycard Premier League 2003-2004,Arsenal,26,12,73,47,0,38,1,90,26
+2003/4,Barclaycard Premier League 2003-2004,Chelsea,30,7,67,37,7,38,2,79,24
+2003/4,Barclaycard Premier League 2003-2004,Manchester United,35,6,64,29,9,38,3,75,23
+2003/4,Barclaycard Premier League 2003-2004,Liverpool,37,12,55,18,10,38,4,60,16
+2003/4,Barclaycard Premier League 2003-2004,Newcastle United,40,17,52,12,8,38,5,56,13
+2003/4,Barclaycard Premier League 2003-2004,Aston Villa,44,11,48,4,12,38,6,56,15
+2003/4,Barclaycard Premier League 2003-2004,Charlton Athletic,51,11,51,0,13,38,7,53,14
+2003/4,Barclaycard Premier League 2003-2004,Bolton Wanderers,56,11,48,-8,13,38,8,53,14
+2003/4,Barclaycard Premier League 2003-2004,Fulham,47,9,52,5,15,38,9,51,14
+2003/4,Barclaycard Premier League 2003-2004,Birmingham City,48,14,43,-5,12,38,10,50,12
+2003/4,Barclaycard Premier League 2003-2004,Middlesbrough,52,9,44,-8,16,38,11,48,13
+2003/4,Barclaycard Premier League 2003-2004,Southampton,45,11,44,-1,15,38,12,47,12
+2003/4,Barclaycard Premier League 2003-2004,Portsmouth,54,8,48,-6,17,38,13,47,13
+2003/4,Barclaycard Premier League 2003-2004,Tottenham Hotspurs,57,6,47,-10,19,38,14,45,13
+2003/4,Barclaycard Premier League 2003-2004,Blackburn Rovers,59,8,51,-8,18,38,15,44,12
+2003/4,Barclaycard Premier League 2003-2004,Manchester City,54,14,55,1,15,38,16,41,9
+2003/4,Barclaycard Premier League 2003-2004,Everton,57,12,45,-12,17,38,17,39,9
+2003/4,Barclaycard Premier League 2003-2004,Leicester City,65,15,48,-17,17,38,18,33,6
+2003/4,Barclaycard Premier League 2003-2004,Leeds United,79,9,40,-39,21,38,19,33,8
+2003/4,Barclaycard Premier League 2003-2004,Wolverhampton Wanderers,77,12,38,-39,19,38,20,33,7
+2002/3,Barclaycard Premiership 2002-2003,Manchester United,34,8,74,40,5,38,1,83,25
+2002/3,Barclaycard Premiership 2002-2003,Arsenal,42,9,85,43,6,38,2,78,23
+2002/3,Barclaycard Premiership 2002-2003,Newcastle United,48,6,63,15,11,38,3,69,21
+2002/3,Barclaycard Premiership 2002-2003,Chelsea,38,10,68,30,9,38,4,67,19
+2002/3,Barclaycard Premiership 2002-2003,Liverpool,41,10,61,20,10,38,5,64,18
+2002/3,Barclaycard Premiership 2002-2003,Blackburn Rovers,43,12,52,9,10,38,6,60,16
+2002/3,Barclaycard Premiership 2002-2003,Everton,49,8,48,-1,13,38,7,59,17
+2002/3,Barclaycard Premiership 2002-2003,Southampton,46,13,43,-3,12,38,8,52,13
+2002/3,Barclaycard Premiership 2002-2003,Manchester City,54,6,47,-7,17,38,9,51,15
+2002/3,Barclaycard Premiership 2002-2003,Tottenham Hotspurs,62,8,51,-11,16,38,10,50,14
+2002/3,Barclaycard Premiership 2002-2003,Middlesbrough,44,10,48,4,15,38,11,49,13
+2002/3,Barclaycard Premiership 2002-2003,Charlton Athletic,56,7,45,-11,17,38,12,49,14
+2002/3,Barclaycard Premiership 2002-2003,Birmingham City,49,9,41,-8,16,38,13,48,13
+2002/3,Barclaycard Premiership 2002-2003,Fulham,50,9,41,-9,16,38,14,48,13
+2002/3,Barclaycard Premiership 2002-2003,Leeds United,57,5,58,1,19,38,15,47,14
+2002/3,Barclaycard Premiership 2002-2003,Aston Villa,47,9,42,-5,17,38,16,45,12
+2002/3,Barclaycard Premiership 2002-2003,Bolton Wanderers,51,14,41,-10,14,38,17,44,10
+2002/3,Barclaycard Premiership 2002-2003,West Ham United,59,12,42,-17,16,38,18,42,10
+2002/3,Barclaycard Premiership 2002-2003,West Bromwich Albion,65,8,29,-36,24,38,19,26,6
+2002/3,Barclaycard Premiership 2002-2003,Sunderland,65,7,21,-44,27,38,20,19,4
+2001/2002,Barclaycard Premiership 2001-2002,Arsenal,36,9,79,43,3,38,1,87,26
+2001/2002,Barclaycard Premiership 2001-2002,Liverpool,30,8,67,37,6,38,2,80,24
+2001/2002,Barclaycard Premiership 2001-2002,Manchester United,45,5,87,42,9,38,3,77,24
+2001/2002,Barclaycard Premiership 2001-2002,Newcastle United,52,8,74,22,9,38,4,71,21
+2001/2002,Barclaycard Premiership 2001-2002,Leeds United,37,12,53,16,8,38,5,66,18
+2001/2002,Barclaycard Premiership 2001-2002,Chelsea,38,13,66,28,8,38,6,64,17
+2001/2002,Barclaycard Premiership 2001-2002,West Ham United,57,8,48,-9,15,38,7,53,15
+2001/2002,Barclaycard Premiership 2001-2002,Aston Villa,47,14,46,-1,12,38,8,50,12
+2001/2002,Barclaycard Premiership 2001-2002,Tottenham Hotspurs,53,8,49,-4,16,38,9,50,14
+2001/2002,Barclaycard Premiership 2001-2002,Blackburn Rovers,51,10,55,4,16,38,10,46,12
+2001/2002,Barclaycard Premiership 2001-2002,Southampton,54,9,46,-8,17,38,11,45,12
+2001/2002,Barclaycard Premiership 2001-2002,Middlesbrough,47,9,35,-12,17,38,12,45,12
+2001/2002,Barclaycard Premiership 2001-2002,Fulham,44,14,36,-8,14,38,13,44,10
+2001/2002,Barclaycard Premiership 2001-2002,Charlton Athletic,49,14,38,-11,14,38,14,44,10
+2001/2002,Barclaycard Premiership 2001-2002,Everton,57,10,45,-12,17,38,15,43,11
+2001/2002,Barclaycard Premiership 2001-2002,Bolton Wanderers,62,13,44,-18,16,38,16,40,9
+2001/2002,Barclaycard Premiership 2001-2002,Sunderland,51,10,29,-22,18,38,17,40,10
+2001/2002,Barclaycard Premiership 2001-2002,Ipswich Town,64,9,41,-23,20,38,18,36,9
+2001/2002,Barclaycard Premiership 2001-2002,Derby County,63,6,33,-30,24,38,19,30,8
+2001/2002,Barclaycard Premiership 2001-2002,Leicester City,64,13,30,-34,20,38,20,28,5
+2000/2001,FA Carling Premier 2000/2001,Manchester United,31,8,79,48,6,38,1,80,24
+2000/2001,FA Carling Premier 2000/2001,Arsenal,38,10,63,25,8,38,2,70,20
+2000/2001,FA Carling Premier 2000/2001,Liverpool,39,9,71,32,9,38,3,69,20
+2000/2001,FA Carling Premier 2000/2001,Leeds United,43,8,64,21,10,38,4,68,20
+2000/2001,FA Carling Premier 2000/2001,Ipswich Town,42,6,57,15,12,38,5,66,20
+2000/2001,FA Carling Premier 2000/2001,Chelsea,45,10,68,23,11,38,6,61,17
+2000/2001,FA Carling Premier 2000/2001,Sunderland,41,12,46,5,11,38,7,57,15
+2000/2001,FA Carling Premier 2000/2001,Aston Villa,43,15,46,3,10,38,8,54,13
+2000/2001,FA Carling Premier 2000/2001,Charlton Athletic,57,10,50,-7,14,38,9,52,14
+2000/2001,FA Carling Premier 2000/2001,Southampton,48,10,40,-8,14,38,10,52,14
+2000/2001,FA Carling Premier 2000/2001,Newcastle United,50,9,44,-6,15,38,11,51,14
+2000/2001,FA Carling Premier 2000/2001,Tottenham Hotspurs,54,10,47,-7,15,38,12,49,13
+2000/2001,FA Carling Premier 2000/2001,Leicester City,51,6,39,-12,18,38,13,48,14
+2000/2001,FA Carling Premier 2000/2001,Middlesbrough,44,15,44,0,14,38,14,42,9
+2000/2001,FA Carling Premier 2000/2001,West Ham United,50,12,45,-5,16,38,15,42,10
+2000/2001,FA Carling Premier 2000/2001,Everton,59,9,45,-14,18,38,16,42,11
+2000/2001,FA Carling Premier 2000/2001,Derby County,59,12,37,-22,16,38,17,42,10
+2000/2001,FA Carling Premier 2000/2001,Manchester City,65,10,41,-24,20,38,18,34,8
+2000/2001,FA Carling Premier 2000/2001,Coventry City,63,10,36,-27,20,38,19,34,8
+2000/2001,FA Carling Premier 2000/2001,Bradford City,70,11,30,-40,22,38,20,26,5
+1999/2000,FA Carling Premier 1999/2000,Manchester United,45,7,97,52,3,38,1,91,28
+1999/2000,FA Carling Premier 1999/2000,Arsenal,43,7,73,30,9,38,2,73,22
+1999/2000,FA Carling Premier 1999/2000,Leeds United,43,6,58,15,11,38,3,69,21
+1999/2000,FA Carling Premier 1999/2000,Liverpool,30,10,51,21,9,38,4,67,19
+1999/2000,FA Carling Premier 1999/2000,Chelsea,34,11,53,19,9,38,5,65,18
+1999/2000,FA Carling Premier 1999/2000,Aston Villa,35,13,46,11,10,38,6,58,15
+1999/2000,FA Carling Premier 1999/2000,Sunderland,56,10,57,1,12,38,7,58,16
+1999/2000,FA Carling Premier 1999/2000,Leicester City,55,7,55,0,15,38,8,55,16
+1999/2000,FA Carling Premier 1999/2000,West Ham United,53,10,52,-1,13,38,9,55,15
+1999/2000,FA Carling Premier 1999/2000,Tottenham Hotspurs,49,8,57,8,15,38,10,53,15
+1999/2000,FA Carling Premier 1999/2000,Newcastle United,54,10,63,9,14,38,11,52,14
+1999/2000,FA Carling Premier 1999/2000,Middlesbrough,52,10,46,-6,14,38,12,52,14
+1999/2000,FA Carling Premier 1999/2000,Everton,49,14,59,10,12,38,13,50,12
+1999/2000,FA Carling Premier 1999/2000,Coventry City,54,8,47,-7,18,38,14,44,12
+1999/2000,FA Carling Premier 1999/2000,Southampton,62,8,45,-17,18,38,15,44,12
+1999/2000,FA Carling Premier 1999/2000,Derby County,57,11,44,-13,18,38,16,38,9
+1999/2000,FA Carling Premier 1999/2000,Bradford City,68,9,38,-30,20,38,17,36,9
+1999/2000,FA Carling Premier 1999/2000,Wimbledon,74,12,46,-28,19,38,18,33,7
+1999/2000,FA Carling Premier 1999/2000,Sheffield Wednesday,70,7,38,-32,23,38,19,31,8
+1999/2000,FA Carling Premier 1999/2000,Watford,77,6,35,-42,26,38,20,24,6
+1998/1999,FA Carling Premiership   1998/99,Manchester United,37,13,80,43,3,38,1,79,22
+1998/1999,FA Carling Premiership   1998/99,Arsenal,17,12,59,42,4,38,2,78,22
+1998/1999,FA Carling Premiership   1998/99,Chelsea,30,15,57,27,3,38,3,75,20
+1998/1999,FA Carling Premiership   1998/99,Leeds United,34,13,62,28,7,38,4,67,18
+1998/1999,FA Carling Premiership   1998/99,West Ham United,53,9,46,-7,13,38,5,57,16
+1998/1999,FA Carling Premiership   1998/99,Aston Villa,46,10,51,5,13,38,6,55,15
+1998/1999,FA Carling Premiership   1998/99,Liverpool,49,9,68,19,14,38,7,54,15
+1998/1999,FA Carling Premiership   1998/99,Derby County,45,13,40,-5,12,38,8,52,13
+1998/1999,FA Carling Premiership   1998/99,Middlesbrough,54,15,48,-6,11,38,9,51,12
+1998/1999,FA Carling Premiership   1998/99,Leicester City,46,13,40,-6,13,38,10,49,12
+1998/1999,FA Carling Premiership   1998/99,Tottenham Hotspurs,50,14,47,-3,13,38,11,47,11
+1998/1999,FA Carling Premiership   1998/99,Sheffield Wednesday,42,7,41,-1,18,38,12,46,13
+1998/1999,FA Carling Premiership   1998/99,Newcastle United,54,13,48,-6,14,38,13,46,11
+1998/1999,FA Carling Premiership   1998/99,Everton,47,10,42,-5,17,38,14,43,11
+1998/1999,FA Carling Premiership   1998/99,Coventry City,51,9,39,-12,18,38,15,42,11
+1998/1999,FA Carling Premiership   1998/99,Wimbledon,63,12,40,-23,16,38,16,42,10
+1998/1999,FA Carling Premiership   1998/99,Southampton,64,8,37,-27,19,38,17,41,11
+1998/1999,FA Carling Premiership   1998/99,Charlton Athletic,56,12,41,-15,18,38,18,36,8
+1998/1999,FA Carling Premiership   1998/99,Blackburn Rovers,52,14,38,-14,17,38,19,35,7
+1998/1999,FA Carling Premiership   1998/99,Nottingham Forest,69,9,35,-34,22,38,20,30,7
+1997/1998,FA Carling Premiership   1997/98,Arsenal,33,9,68,35,6,38,1,78,23
+1997/1998,FA Carling Premiership   1997/98,Manchester United,26,8,73,47,7,38,2,77,23
+1997/1998,FA Carling Premiership   1997/98,Liverpool,42,11,68,26,9,38,3,65,18
+1997/1998,FA Carling Premiership   1997/98,Chelsea,43,3,71,28,15,38,4,63,20
+1997/1998,FA Carling Premiership   1997/98,Leeds United,46,8,57,11,13,38,5,59,17
+1997/1998,FA Carling Premiership   1997/98,Blackburn Rovers,52,10,57,5,12,38,6,58,16
+1997/1998,FA Carling Premiership   1997/98,Aston Villa,48,6,49,1,15,38,7,57,17
+1997/1998,FA Carling Premiership   1997/98,West Ham United,57,8,56,-1,14,38,8,56,16
+1997/1998,FA Carling Premiership   1997/98,Derby County,49,7,52,3,15,38,9,55,16
+1997/1998,FA Carling Premiership   1997/98,Leicester City,41,14,51,10,11,38,10,53,13
+1997/1998,FA Carling Premiership   1997/98,Coventry City,44,16,46,2,10,38,11,52,12
+1997/1998,FA Carling Premiership   1997/98,Southampton,55,6,50,-5,18,38,12,48,14
+1997/1998,FA Carling Premiership   1997/98,Newcastle United,44,11,35,-9,16,38,13,44,11
+1997/1998,FA Carling Premiership   1997/98,Tottenham Hotspurs,56,11,44,-12,16,38,14,44,11
+1997/1998,FA Carling Premiership   1997/98,Wimbledon,46,14,34,-12,14,38,15,44,10
+1997/1998,FA Carling Premiership   1997/98,Sheffield Wednesday,67,8,52,-15,18,38,16,44,12
+1997/1998,FA Carling Premiership   1997/98,Everton,56,13,41,-15,16,38,17,40,9
+1997/1998,FA Carling Premiership   1997/98,Bolton Wanderers,61,13,41,-20,16,38,18,40,9
+1997/1998,FA Carling Premiership   1997/98,Barnsley,82,5,37,-45,23,38,19,35,10
+1997/1998,FA Carling Premiership   1997/98,Crystal Palace,71,9,37,-34,21,38,20,33,8
+1996/1997,FA Carling Premiership    1996/97,Manchester United,44,12,76,32,5,38,1,75,21
+1996/1997,FA Carling Premiership    1996/97,Newcastle United,40,11,73,33,8,38,2,68,19
+1996/1997,FA Carling Premiership    1996/97,Arsenal,32,11,62,30,8,38,3,68,19
+1996/1997,FA Carling Premiership    1996/97,Liverpool,37,11,62,25,8,38,4,68,19
+1996/1997,FA Carling Premiership    1996/97,Aston Villa,34,10,47,13,11,38,5,61,17
+1996/1997,FA Carling Premiership    1996/97,Chelsea,55,11,58,3,11,38,6,59,16
+1996/1997,FA Carling Premiership    1996/97,Sheffield Wednesday,51,15,50,-1,9,38,7,57,14
+1996/1997,FA Carling Premiership    1996/97,Wimbledon,46,11,49,3,12,38,8,56,15
+1996/1997,FA Carling Premiership    1996/97,Leicester City,54,11,46,-8,15,38,9,47,12
+1996/1997,FA Carling Premiership    1996/97,Tottenham Hotspurs,51,7,44,-7,18,38,10,46,13
+1996/1997,FA Carling Premiership    1996/97,Leeds United,38,13,28,-10,14,38,11,46,11
+1996/1997,FA Carling Premiership    1996/97,Derby County,58,13,45,-13,14,38,12,46,11
+1996/1997,FA Carling Premiership    1996/97,Blackburn Rovers,43,15,42,-1,14,38,13,42,9
+1996/1997,FA Carling Premiership    1996/97,West Ham United,48,12,39,-9,16,38,14,42,10
+1996/1997,FA Carling Premiership    1996/97,Everton,57,12,44,-13,16,38,15,42,10
+1996/1997,FA Carling Premiership    1996/97,Southampton,56,11,50,-6,17,38,16,41,10
+1996/1997,FA Carling Premiership    1996/97,Coventry City,54,14,38,-16,15,38,17,41,9
+1996/1997,FA Carling Premiership    1996/97,Sunderland,53,10,35,-18,18,38,18,40,10
+1996/1997,FA Carling Premiership    1996/97,Middlesbrough,60,12,51,-9,16,38,19,39,10
+1996/1997,FA Carling Premiership    1996/97,Nottingham Forest,59,16,31,-28,16,38,20,34,6
+1995/1996,FA Carling Premiership   1995/96,Manchester United,35,7,73,38,6,38,1,82,25
+1995/1996,FA Carling Premiership   1995/96,Newcastle United,37,6,66,29,8,38,2,78,24
+1995/1996,FA Carling Premiership   1995/96,Liverpool,34,11,70,36,7,38,3,71,20
+1995/1996,FA Carling Premiership   1995/96,Aston Villa,35,9,52,17,11,38,4,63,18
+1995/1996,FA Carling Premiership   1995/96,Arsenal,32,12,49,17,9,38,5,63,17
+1995/1996,FA Carling Premiership   1995/96,Everton,44,10,64,20,11,38,6,61,17
+1995/1996,FA Carling Premiership   1995/96,Blackburn Rovers,47,7,61,14,13,38,7,61,18
+1995/1996,FA Carling Premiership   1995/96,Tottenham Hotspurs,38,13,50,12,9,38,8,61,16
+1995/1996,FA Carling Premiership   1995/96,Nottingham Forest,54,13,50,-4,10,38,9,58,15
+1995/1996,FA Carling Premiership   1995/96,West Ham United,52,9,43,-9,15,38,10,51,14
+1995/1996,FA Carling Premiership   1995/96,Chelsea,44,14,46,2,12,38,11,50,12
+1995/1996,FA Carling Premiership   1995/96,Middlesbrough,50,10,35,-15,17,38,12,43,11
+1995/1996,FA Carling Premiership   1995/96,Leeds United,57,7,40,-17,19,38,13,43,12
+1995/1996,FA Carling Premiership   1995/96,Wimbledon,70,11,55,-15,17,38,14,41,10
+1995/1996,FA Carling Premiership   1995/96,Sheffield Wednesday,61,10,48,-13,18,38,15,40,10
+1995/1996,FA Carling Premiership   1995/96,Coventry City,60,14,42,-18,16,38,16,38,8
+1995/1996,FA Carling Premiership   1995/96,Southampton,52,11,34,-18,18,38,17,38,9
+1995/1996,FA Carling Premiership   1995/96,Manchester City,58,11,33,-25,18,38,18,38,9
+1995/1996,FA Carling Premiership   1995/96,Queens Park Rangers,57,6,38,-19,23,38,19,33,9
+1995/1996,FA Carling Premiership   1995/96,Bolton Wanderers,71,5,39,-32,25,38,20,29,8
+1994/1995,Premier League   1994/95,Blackburn Rovers,39,8,80,41,7,42,1,89,27
+1994/1995,Premier League   1994/95,Manchester United,28,10,77,49,6,42,2,88,26
+1994/1995,Premier League   1994/95,Nottingham Forest,43,11,74,31,9,42,3,77,22
+1994/1995,Premier League   1994/95,Liverpool,37,11,65,28,10,42,4,74,21
+1994/1995,Premier League   1994/95,Leeds,38,13,59,21,9,42,5,73,20
+1994/1995,Premier League   1994/95,Newcastle United,47,12,67,20,10,42,6,72,20
+1994/1995,Premier League   1994/95,Tottenham Hotspurs,58,14,66,8,12,42,7,62,16
+1994/1995,Premier League   1994/95,Queens Park Rangers,59,9,61,2,16,42,8,60,17
+1994/1995,Premier League   1994/95,Wimbledon,65,11,48,-17,16,42,9,56,15
+1994/1995,Premier League   1994/95,Southampton,63,18,61,-2,12,42,10,54,12
+1994/1995,Premier League   1994/95,Chelsea,55,15,50,-5,14,42,11,54,13
+1994/1995,Premier League   1994/95,Arsenal,49,12,52,3,17,42,12,51,13
+1994/1995,Premier League   1994/95,Sheffield Wednesday,57,12,49,-8,17,42,13,51,13
+1994/1995,Premier League   1994/95,West Ham,48,11,44,-4,18,42,14,50,13
+1994/1995,Premier League   1994/95,Everton,51,17,44,-7,14,42,15,50,11
+1994/1995,Premier League   1994/95,Coventry City,62,14,44,-18,16,42,16,50,12
+1994/1995,Premier League   1994/95,Manchester City,64,13,53,-11,17,42,17,49,12
+1994/1995,Premier League   1994/95,Aston Villa,56,15,51,-5,16,42,18,48,11
+1994/1995,Premier League   1994/95,Crystal Palace,51,12,34,-17,19,42,19,45,11
+1994/1995,Premier League   1994/95,Norwich City,54,13,37,-17,19,42,20,43,10
+1994/1995,Premier League   1994/95,Leicester,80,11,45,-35,25,42,21,29,6
+1994/1995,Premier League   1994/95,Ipswich Town,93,6,36,-57,29,42,22,27,7
+1993/1994,FA Carling Premiership 93/94,Manchester United,38,11,80,42,4,42,1,92,27
+1993/1994,FA Carling Premiership 93/94,Blackburn Rovers,36,9,63,27,8,42,2,84,25
+1993/1994,FA Carling Premiership 93/94,Newcastle United,41,8,82,41,11,42,3,77,23
+1993/1994,FA Carling Premiership 93/94,Arsenal,28,17,53,25,7,42,4,71,18
+1993/1994,FA Carling Premiership 93/94,Leeds United,39,16,65,26,8,42,5,70,18
+1993/1994,FA Carling Premiership 93/94,Wimbledon,53,11,56,3,13,42,6,65,18
+1993/1994,FA Carling Premiership 93/94,Sheffield Wednesday,54,16,76,22,10,42,7,64,16
+1993/1994,FA Carling Premiership 93/94,Liverpool,55,9,59,4,16,42,8,60,17
+1993/1994,FA Carling Premiership 93/94,Queens Park Rangers,61,12,62,1,14,42,9,60,16
+1993/1994,FA Carling Premiership 93/94,Aston Villa,50,12,46,-4,15,42,10,57,15
+1993/1994,FA Carling Premiership 93/94,Coventry City,45,14,43,-2,14,42,11,56,14
+1993/1994,FA Carling Premiership 93/94,Norwich City,61,17,65,4,13,42,12,53,12
+1993/1994,FA Carling Premiership 93/94,West Ham United,58,13,47,-11,16,42,13,52,13
+1993/1994,FA Carling Premiership 93/94,Chelsea,53,12,49,-4,17,42,14,51,13
+1993/1994,FA Carling Premiership 93/94,Tottenham Hotspurs,59,12,54,-5,19,42,15,45,11
+1993/1994,FA Carling Premiership 93/94,Manchester City,49,18,38,-11,15,42,16,45,9
+1993/1994,FA Carling Premiership 93/94,Everton,63,8,42,-21,22,42,17,44,12
+1993/1994,FA Carling Premiership 93/94,Southampton,66,7,49,-17,23,42,18,43,12
+1993/1994,FA Carling Premiership 93/94,Ipswich Town,58,16,35,-23,17,42,19,43,9
+1993/1994,FA Carling Premiership 93/94,Sheffield United,60,18,42,-18,16,42,20,42,8
+1993/1994,FA Carling Premiership 93/94,Oldham Athletic,68,13,42,-26,20,42,21,40,9
+1993/1994,FA Carling Premiership 93/94,Swindon Town,100,15,47,-53,22,42,22,30,5
+1992/1993,FA Premier League 92/93,Manchester United,31,12,67,36,6,42,1,84,24
+1992/1993,FA Premier League 92/93,Aston Villa,40,11,57,17,10,42,2,74,21
+1992/1993,FA Premier League 92/93,Norwich City,65,9,61,-4,12,42,3,72,21
+1992/1993,FA Premier League 92/93,Blackburn Rovers,46,11,68,22,11,42,4,71,20
+1992/1993,FA Premier League 92/93,Queens Park Rangers,55,12,63,8,13,42,5,63,17
+1992/1993,FA Premier League 92/93,Liverpool,55,11,62,7,15,42,6,59,16
+1992/1993,FA Premier League 92/93,Sheffield Wednesday,51,14,55,4,13,42,7,59,15
+1992/1993,FA Premier League 92/93,Tottenham Hotspurs,66,11,60,-6,15,42,8,59,16
+1992/1993,FA Premier League 92/93,Manchester City,51,12,56,5,15,42,9,57,15
+1992/1993,FA Premier League 92/93,Arsenal,38,11,40,2,16,42,10,56,15
+1992/1993,FA Premier League 92/93,Chelsea,54,14,51,-3,14,42,11,56,14
+1992/1993,FA Premier League 92/93,Wimbledon,55,12,56,1,16,42,12,54,14
+1992/1993,FA Premier League 92/93,Everton,55,8,53,-2,19,42,13,53,15
+1992/1993,FA Premier League 92/93,Sheffield United,53,10,54,1,18,42,14,52,14
+1992/1993,FA Premier League 92/93,Coventry City,57,13,52,-5,16,42,15,52,13
+1992/1993,FA Premier League 92/93,Ipswich Town,55,16,50,-5,14,42,16,52,12
+1992/1993,FA Premier League 92/93,Leeds United,62,15,57,-5,15,42,17,51,12
+1992/1993,FA Premier League 92/93,Southampton,61,11,54,-7,18,42,18,50,13
+1992/1993,FA Premier League 92/93,Oldham Athletic,74,10,63,-11,19,42,19,49,13
+1992/1993,FA Premier League 92/93,Crystal Palace,61,16,48,-13,15,42,20,49,11
+1992/1993,FA Premier League 92/93,Middlesbrough,75,11,54,-21,20,42,21,44,11
+1992/1993,FA Premier League 92/93,Nottingham Forest,62,10,41,-21,22,42,22,40,10
+1991/1992,First Division 1991-92,Leeds United,37,16,74,37,4,42,1,82,22
+1991/1992,First Division 1991-92,Manchester United,33,15,63,30,6,42,2,78,21
+1991/1992,First Division 1991-92,Sheffield Wednesday,49,12,62,13,9,42,3,75,21
+1991/1992,First Division 1991-92,Arsenal,46,15,81,35,8,42,4,72,19
+1991/1992,First Division 1991-92,Manchester City,48,10,61,13,12,42,5,70,20
+1991/1992,First Division 1991-92,Liverpool,40,16,47,7,10,42,6,64,16
+1991/1992,First Division 1991-92,Aston Villa,44,9,48,4,16,42,7,60,17
+1991/1992,First Division 1991-92,Nottingham Forest,58,11,60,2,15,42,8,59,16
+1991/1992,First Division 1991-92,Sheffield United,63,9,65,2,17,42,9,57,16
+1991/1992,First Division 1991-92,Crystal Palace,61,15,53,-8,13,42,10,57,14
+1991/1992,First Division 1991-92,Queens Park Rangers,47,18,48,1,12,42,11,54,12
+1991/1992,First Division 1991-92,Everton,51,14,52,1,15,42,12,53,13
+1991/1992,First Division 1991-92,Wimbledon,53,14,53,0,15,42,13,53,13
+1991/1992,First Division 1991-92,Chelsea,60,14,50,-10,15,42,14,53,13
+1991/1992,First Division 1991-92,Tottenham Hotspurs,63,7,58,-5,20,42,15,52,15
+1991/1992,First Division 1991-92,Southampton,55,10,39,-16,18,42,16,52,14
+1991/1992,First Division 1991-92,Oldham Athletic,67,9,63,-4,19,42,17,51,14
+1991/1992,First Division 1991-92,Norwich City,63,12,47,-16,19,42,18,45,11
+1991/1992,First Division 1991-92,Coventry City,44,11,35,-9,20,42,19,44,11
+1991/1992,First Division 1991-92,Luton Town,71,12,38,-33,20,42,20,42,10
+1991/1992,First Division 1991-92,Notts County,62,10,40,-22,22,42,21,40,10
+1991/1992,First Division 1991-92,West Ham United,59,11,37,-22,22,42,22,38,9
+1990/1991,First Division 1990-91,Arsenal,18,13,74,56,1,38,1,83,24
+1990/1991,First Division 1990-91,Liverpool,40,7,77,37,8,38,2,76,23
+1990/1991,First Division 1990-91,Crystal Palace,41,9,50,9,9,38,3,69,20
+1990/1991,First Division 1990-91,Leeds United,47,7,65,18,12,38,4,64,19
+1990/1991,First Division 1990-91,Manchester City,53,11,64,11,10,38,5,62,17
+1990/1991,First Division 1990-91,Manchester United,45,12,58,13,10,38,6,59,16
+1990/1991,First Division 1990-91,Wimbledon,46,14,53,7,10,38,7,56,14
+1990/1991,First Division 1990-91,Nottingham Forest,50,12,65,15,12,38,8,54,14
+1990/1991,First Division 1990-91,Everton,46,12,50,4,13,38,9,51,13
+1990/1991,First Division 1990-91,Tottenham Hotspurs,50,16,51,1,11,38,10,49,11
+1990/1991,First Division 1990-91,Chelsea,69,10,58,-11,15,38,11,49,13
+1990/1991,First Division 1990-91,Queens Park Rangers,53,10,44,-9,16,38,12,46,12
+1990/1991,First Division 1990-91,Sheffield United,55,7,36,-19,18,38,13,46,13
+1990/1991,First Division 1990-91,Southampton,69,9,58,-11,17,38,14,45,12
+1990/1991,First Division 1990-91,Norwich City,64,6,41,-23,19,38,15,45,13
+1990/1991,First Division 1990-91,Coventry City,49,11,42,-7,16,38,16,44,11
+1990/1991,First Division 1990-91,Aston Villa,58,14,46,-12,15,38,17,41,9
+1990/1991,First Division 1990-91,Luton Town,61,7,42,-19,21,38,18,37,10
+1990/1991,First Division 1990-91,Sunderland,60,10,38,-22,20,38,19,34,8
+1990/1991,First Division 1990-91,Derby County,75,9,37,-38,24,38,20,24,5
+1989/1990,First Division 1989-90,Liverpool,37,10,78,41,5,38,1,79,23
+1989/1990,First Division 1989-90,Aston Villa,38,7,57,19,10,38,2,70,21
+1989/1990,First Division 1989-90,Tottenham Hotspurs,47,6,59,12,13,38,3,63,19
+1989/1990,First Division 1989-90,Arsenal,38,8,54,16,12,38,4,62,18
+1989/1990,First Division 1989-90,Chelsea,50,12,58,8,10,38,5,60,16
+1989/1990,First Division 1989-90,Everton,46,8,57,11,13,38,6,59,17
+1989/1990,First Division 1989-90,Southampton,63,10,71,8,13,38,7,55,15
+1989/1990,First Division 1989-90,Wimbledon,40,16,47,7,9,38,8,55,13
+1989/1990,First Division 1989-90,Nottingham Forest,47,9,55,8,14,38,9,54,15
+1989/1990,First Division 1989-90,Norwich City,42,14,44,2,11,38,10,53,13
+1989/1990,First Division 1989-90,Queens Park Rangers,44,11,45,1,14,38,11,50,13
+1989/1990,First Division 1989-90,Coventry City,59,7,39,-20,17,38,12,49,14
+1989/1990,First Division 1989-90,Manchester United,47,9,46,-1,16,38,13,48,13
+1989/1990,First Division 1989-90,Manchester City,52,12,43,-9,14,38,14,48,12
+1989/1990,First Division 1989-90,Crystal Palace,66,9,42,-24,16,38,15,48,13
+1989/1990,First Division 1989-90,Derby County,40,7,43,3,18,38,16,46,13
+1989/1990,First Division 1989-90,Luton Town,57,13,43,-14,15,38,17,43,10
+1989/1990,First Division 1989-90,Sheffield Wednesday,51,10,35,-16,17,38,18,43,11
+1989/1990,First Division 1989-90,Charlton Athletic,57,9,31,-26,22,38,19,30,7
+1989/1990,First Division 1989-90,Millwall,65,11,39,-26,22,38,20,26,5
+1988/1989,First Division 1988-89,Arsenal,36,10,73,37,6,38,1,76,22
+1988/1989,First Division 1988-89,Liverpool,28,10,65,37,6,38,2,76,22
+1988/1989,First Division 1988-89,Nottingham Forest,43,13,64,21,8,38,3,64,17
+1988/1989,First Division 1988-89,Norwich City,45,11,48,3,10,38,4,62,17
+1988/1989,First Division 1988-89,Derby County,38,7,40,2,14,38,5,58,17
+1988/1989,First Division 1988-89,Tottenham Hotspurs,46,12,60,14,11,38,6,57,15
+1988/1989,First Division 1988-89,Coventry City,42,13,47,5,11,38,7,55,14
+1988/1989,First Division 1988-89,Everton,45,12,50,5,12,38,8,54,14
+1988/1989,First Division 1988-89,Queens Park Rangers,37,11,43,6,13,38,9,53,14
+1988/1989,First Division 1988-89,Millwall,52,11,47,-5,13,38,10,53,14
+1988/1989,First Division 1988-89,Manchester United,35,12,45,10,13,38,11,51,13
+1988/1989,First Division 1988-89,Wimbledon,46,9,50,4,15,38,12,51,14
+1988/1989,First Division 1988-89,Southampton,66,15,52,-14,13,38,13,45,10
+1988/1989,First Division 1988-89,Charlton Athletic,58,12,44,-14,16,38,14,42,10
+1988/1989,First Division 1988-89,Sheffield Wednesday,51,12,34,-17,16,38,15,42,10
+1988/1989,First Division 1988-89,Luton Town,52,11,42,-10,17,38,16,41,10
+1988/1989,First Division 1988-89,Aston Villa,56,13,45,-11,16,38,17,40,9
+1988/1989,First Division 1988-89,Middlesbrough,61,12,44,-17,17,38,18,39,9
+1988/1989,First Division 1988-89,West Ham United,62,8,37,-25,20,38,19,38,10
+1988/1989,First Division 1988-89,Newcastle United,63,10,32,-31,21,38,20,31,7
+1987/1988,First Division 1987-88,Liverpool,24,12,87,63,2,40,1,90,26
+1987/1988,First Division 1987-88,Manchester United,37,12,71,34,5,40,2,81,23
+1987/1988,First Division 1987-88,Nottingham Forest,36,13,67,31,7,40,3,73,20
+1987/1988,First Division 1987-88,Everton,27,13,53,26,8,40,4,70,19
+1987/1988,First Division 1987-88,Queens Park Rangers,37,10,47,10,11,40,5,67,19
+1987/1988,First Division 1987-88,Arsenal,39,12,58,19,10,40,6,66,18
+1987/1988,First Division 1987-88,Wimbledon,47,15,58,11,11,40,7,57,14
+1987/1988,First Division 1987-88,Newcastle United,53,14,55,2,12,40,8,56,14
+1987/1988,First Division 1987-88,Luton Town,57,11,56,-1,15,40,9,53,14
+1987/1988,First Division 1987-88,Coventry City,53,14,46,-7,13,40,10,53,13
+1987/1988,First Division 1987-88,Sheffield Wednesday,66,8,52,-14,17,40,11,53,15
+1987/1988,First Division 1987-88,Southampton,53,14,49,-4,14,40,12,50,12
+1987/1988,First Division 1987-88,Tottenham Hotspurs,48,11,38,-10,17,40,13,47,12
+1987/1988,First Division 1987-88,Norwich City,52,9,39,-13,19,40,14,45,12
+1987/1988,First Division 1987-88,Derby County,45,13,35,-10,17,40,15,43,10
+1987/1988,First Division 1987-88,West Ham United,52,15,40,-12,16,40,16,42,9
+1987/1988,First Division 1987-88,Charlton Athletic,52,15,38,-14,16,40,17,42,9
+1987/1988,First Division 1987-88,Chelsea,68,15,50,-18,16,40,18,42,9
+1987/1988,First Division 1987-88,Portsmouth,66,14,36,-30,19,40,19,35,7
+1987/1988,First Division 1987-88,Watford,51,11,27,-24,22,40,20,32,7
+1987/1988,First Division 1987-88,Oxford United,80,13,41,-39,21,40,21,31,6
+1986/1987,First Division 1986-87,Everton,29,8,75,46,8,42,1,86,26
+1986/1987,First Division 1986-87,Liverpool,43,9,70,27,11,42,2,75,22
+1986/1987,First Division 1986-87,Tottenham Hotspurs,43,8,68,25,13,42,3,71,21
+1986/1987,First Division 1986-87,Arsenal,35,10,58,23,12,42,4,70,20
+1986/1987,First Division 1986-87,Norwich City,51,17,53,2,8,42,5,68,17
+1986/1987,First Division 1986-87,Nottingham Forest,51,10,65,14,13,42,6,67,19
+1986/1987,First Division 1986-87,Wimbledon,49,9,57,8,14,42,7,66,19
+1986/1987,First Division 1986-87,Luton Town,46,11,46,0,13,42,8,65,18
+1986/1987,First Division 1986-87,Watford,54,9,67,13,15,42,9,63,18
+1986/1987,First Division 1986-87,Coventry City,46,11,50,4,14,42,10,62,17
+1986/1987,First Division 1986-87,Manchester United,45,14,52,7,14,42,11,56,14
+1986/1987,First Division 1986-87,Southampton,68,10,69,1,18,42,12,52,14
+1986/1987,First Division 1986-87,Sheffield Wednesday,59,13,58,-1,16,42,13,52,13
+1986/1987,First Division 1986-87,Chelsea,64,13,52,-12,16,42,14,52,13
+1986/1987,First Division 1986-87,West Ham United,67,10,52,-15,18,42,15,52,14
+1986/1987,First Division 1986-87,Newcastle United,64,11,49,-15,18,42,16,50,13
+1986/1987,First Division 1986-87,Queens Park Rangers,64,11,48,-16,18,42,17,50,13
+1986/1987,First Division 1986-87,Oxford United,69,13,44,-25,18,42,18,46,11
+1986/1987,First Division 1986-87,Charlton Athletic,55,11,45,-10,20,42,19,44,11
+1986/1987,First Division 1986-87,Leicester City,76,9,54,-22,22,42,20,42,11
+1986/1987,First Division 1986-87,Manchester City,56,15,36,-20,19,42,21,39,8
+1986/1987,First Division 1986-87,Aston Villa,79,12,45,-34,22,42,22,36,8
+1985/1986,First Division 1985-86,Liverpool,37,10,89,52,6,42,1,88,26
+1985/1986,First Division 1985-86,Everton,41,8,87,46,8,42,2,86,26
+1985/1986,First Division 1985-86,West Ham United,40,6,74,34,10,42,3,84,26
+1985/1986,First Division 1985-86,Manchester United,36,10,70,34,10,42,4,76,22
+1985/1986,First Division 1985-86,Sheffield Wednesday,54,10,63,9,11,42,5,73,21
+1985/1986,First Division 1985-86,Chelsea,56,11,57,1,11,42,6,71,20
+1985/1986,First Division 1985-86,Arsenal,47,9,49,2,13,42,7,69,20
+1985/1986,First Division 1985-86,Nottingham Forest,53,11,69,16,12,42,8,68,19
+1985/1986,First Division 1985-86,Luton Town,44,12,61,17,12,42,9,66,18
+1985/1986,First Division 1985-86,Tottenham Hotspurs,52,8,74,22,15,42,10,65,19
+1985/1986,First Division 1985-86,Newcastle United,72,12,67,-5,13,42,11,63,17
+1985/1986,First Division 1985-86,Watford,62,11,69,7,15,42,12,59,16
+1985/1986,First Division 1985-86,Queens Park Rangers,64,7,53,-11,20,42,13,52,15
+1985/1986,First Division 1985-86,Southampton,62,10,51,-11,20,42,14,46,12
+1985/1986,First Division 1985-86,Manchester City,57,12,43,-14,19,42,15,45,11
+1985/1986,First Division 1985-86,Aston Villa,67,14,51,-16,18,42,16,44,10
+1985/1986,First Division 1985-86,Coventry City,71,10,48,-23,21,42,17,43,11
+1985/1986,First Division 1985-86,Oxford United,80,12,62,-18,20,42,18,42,10
+1985/1986,First Division 1985-86,Leicester City,76,12,54,-22,20,42,19,42,10
+1985/1986,First Division 1985-86,Ipswich Town,55,8,32,-23,23,42,20,41,11
+1985/1986,First Division 1985-86,Birmingham City,73,5,30,-43,29,42,21,29,8
+1985/1986,First Division 1985-86,West Bromwich Albion,89,12,35,-54,26,42,22,24,4
+1984/1985,First Division 1984-85,Everton,43,6,88,45,8,42,1,90,28
+1984/1985,First Division 1984-85,Liverpool,35,11,68,33,9,42,2,77,22
+1984/1985,First Division 1984-85,Tottenham Hotspurs,51,8,78,27,11,42,3,77,23
+1984/1985,First Division 1984-85,Manchester United,47,10,77,30,10,42,4,76,22
+1984/1985,First Division 1984-85,Southampton,47,11,56,9,12,42,5,68,19
+1984/1985,First Division 1984-85,Chelsea,48,12,63,15,12,42,6,66,18
+1984/1985,First Division 1984-85,Arsenal,49,9,61,12,14,42,7,66,19
+1984/1985,First Division 1984-85,Sheffield Wednesday,45,14,58,13,11,42,8,65,17
+1984/1985,First Division 1984-85,Nottingham Forest,48,7,56,8,16,42,9,64,19
+1984/1985,First Division 1984-85,Aston Villa,60,11,60,0,16,42,10,56,15
+1984/1985,First Division 1984-85,Watford,71,13,81,10,15,42,11,55,14
+1984/1985,First Division 1984-85,West Bromwich Albion,62,7,58,-4,19,42,12,55,16
+1984/1985,First Division 1984-85,Luton Town,61,9,57,-4,18,42,13,54,15
+1984/1985,First Division 1984-85,Newcastle United,70,13,55,-15,16,42,14,52,13
+1984/1985,First Division 1984-85,Leicester City,73,6,65,-8,21,42,15,51,15
+1984/1985,First Division 1984-85,West Ham United,68,12,51,-17,17,42,16,51,13
+1984/1985,First Division 1984-85,Ipswich Town,57,11,46,-11,18,42,17,50,13
+1984/1985,First Division 1984-85,Coventry City,64,5,47,-17,22,42,18,50,15
+1984/1985,First Division 1984-85,Queens Park Rangers,72,11,53,-19,18,42,19,50,13
+1984/1985,First Division 1984-85,Norwich City,64,10,46,-18,19,42,20,49,13
+1984/1985,First Division 1984-85,Sunderland,62,10,40,-22,22,42,21,40,10
+1984/1985,First Division 1984-85,Stoke City,91,8,24,-67,31,42,22,17,3
+1983/1984,First Division 1983-84,Liverpool,32,14,73,41,6,42,1,80,22
+1983/1984,First Division 1983-84,Southampton,38,11,66,28,9,42,2,77,22
+1983/1984,First Division 1983-84,Nottingham Forest,45,8,76,31,12,42,3,74,22
+1983/1984,First Division 1983-84,Manchester United,41,14,71,30,8,42,4,74,20
+1983/1984,First Division 1983-84,Queens Park Rangers,37,7,67,30,13,42,5,73,22
+1983/1984,First Division 1983-84,Arsenal,60,9,74,14,15,42,6,63,18
+1983/1984,First Division 1983-84,Everton,42,14,44,2,12,42,7,62,16
+1983/1984,First Division 1983-84,Tottenham Hotspurs,65,10,64,-1,15,42,8,61,17
+1983/1984,First Division 1983-84,West Ham United,55,9,60,5,16,42,9,60,17
+1983/1984,First Division 1983-84,Aston Villa,61,9,59,-2,16,42,10,60,17
+1983/1984,First Division 1983-84,Watford,77,9,68,-9,17,42,11,57,16
+1983/1984,First Division 1983-84,Ipswich Town,57,8,55,-2,19,42,12,53,15
+1983/1984,First Division 1983-84,Sunderland,53,13,42,-11,16,42,13,52,13
+1983/1984,First Division 1983-84,Norwich City,49,15,48,-1,15,42,14,51,12
+1983/1984,First Division 1983-84,Leicester City,68,12,65,-3,17,42,15,51,13
+1983/1984,First Division 1983-84,Luton Town,66,9,53,-13,19,42,16,51,14
+1983/1984,First Division 1983-84,West Bromwich Albion,62,9,48,-14,19,42,17,51,14
+1983/1984,First Division 1983-84,Stoke City,63,11,44,-19,18,42,18,50,13
+1983/1984,First Division 1983-84,Coventry City,77,11,57,-20,18,42,19,50,13
+1983/1984,First Division 1983-84,Birmingham City,50,12,39,-11,18,42,20,48,12
+1983/1984,First Division 1983-84,Notts County,72,11,50,-22,21,42,21,41,10
+1983/1984,First Division 1983-84,Wolverhampton Wanderers,80,11,27,-53,25,42,22,29,6
+1982/1983,First Division 1982-83,Liverpool,37,10,87,50,8,42,1,82,24
+1982/1983,First Division 1982-83,Watford,57,5,74,17,15,42,2,71,22
+1982/1983,First Division 1982-83,Manchester United,38,13,56,18,10,42,3,70,19
+1982/1983,First Division 1982-83,Tottenham Hotspurs,50,9,65,15,13,42,4,69,20
+1982/1983,First Division 1982-83,Nottingham Forest,50,9,62,12,13,42,5,69,20
+1982/1983,First Division 1982-83,Aston Villa,50,5,62,12,16,42,6,68,21
+1982/1983,First Division 1982-83,Everton,48,10,66,18,14,42,7,64,18
+1982/1983,First Division 1982-83,West Ham United,62,4,68,6,18,42,8,64,20
+1982/1983,First Division 1982-83,Ipswich Town,50,13,64,14,14,42,9,58,15
+1982/1983,First Division 1982-83,Arsenal,56,10,58,2,16,42,10,58,16
+1982/1983,First Division 1982-83,West Bromwich Albion,49,12,51,2,15,42,11,57,15
+1982/1983,First Division 1982-83,Southampton,58,12,55,-3,15,42,12,57,15
+1982/1983,First Division 1982-83,Stoke City,64,9,53,-11,17,42,13,57,16
+1982/1983,First Division 1982-83,Norwich City,58,12,52,-6,16,42,14,54,14
+1982/1983,First Division 1982-83,Notts County,71,7,54,-17,20,42,15,52,15
+1982/1983,First Division 1982-83,Sunderland,61,14,48,-13,16,42,16,50,12
+1982/1983,First Division 1982-83,Birmingham City,55,14,40,-15,16,42,17,50,12
+1982/1983,First Division 1982-83,Luton Town,84,13,65,-19,17,42,18,49,12
+1982/1983,First Division 1982-83,Coventry City,59,9,48,-11,20,42,19,48,13
+1982/1983,First Division 1982-83,Manchester City,70,8,47,-23,21,42,20,47,13
+1982/1983,First Division 1982-83,Swansea City,69,11,51,-18,21,42,21,41,10
+1982/1983,First Division 1982-83,Brighton,68,13,38,-30,20,42,22,40,9
+1981/1982,First Division 1981-82,Liverpool,32,9,80,48,7,42,1,87,26
+1981/1982,First Division 1981-82,Ipswich Town,53,5,75,22,11,42,2,83,26
+1981/1982,First Division 1981-82,Manchester United,29,12,59,30,8,42,3,78,22
+1981/1982,First Division 1981-82,Tottenham Hotspurs,48,11,67,19,11,42,4,71,20
+1981/1982,First Division 1981-82,Arsenal,37,11,48,11,11,42,5,71,20
+1981/1982,First Division 1981-82,Swansea City,51,6,58,7,15,42,6,69,21
+1981/1982,First Division 1981-82,Southampton,67,9,72,5,14,42,7,66,19
+1981/1982,First Division 1981-82,Everton,50,13,56,6,12,42,8,64,17
+1981/1982,First Division 1981-82,West Ham United,57,16,66,9,12,42,9,58,14
+1981/1982,First Division 1981-82,Manchester City,50,13,49,-1,14,42,10,58,15
+1981/1982,First Division 1981-82,Aston Villa,53,12,55,2,15,42,11,57,15
+1981/1982,First Division 1981-82,Nottingham Forest,48,12,42,-6,15,42,12,57,15
+1981/1982,First Division 1981-82,Brighton,52,13,43,-9,16,42,13,52,13
+1981/1982,First Division 1981-82,Coventry City,62,11,56,-6,18,42,14,50,13
+1981/1982,First Division 1981-82,Notts County,69,8,61,-8,21,42,15,47,13
+1981/1982,First Division 1981-82,Birmingham City,61,14,53,-8,18,42,16,44,10
+1981/1982,First Division 1981-82,West Bromwich Albion,57,11,46,-11,20,42,17,44,11
+1981/1982,First Division 1981-82,Stoke City,63,8,44,-19,22,42,18,44,12
+1981/1982,First Division 1981-82,Sunderland,58,11,38,-20,20,42,19,44,11
+1981/1982,First Division 1981-82,Leeds United,61,12,39,-22,20,42,20,42,10
+1981/1982,First Division 1981-82,Wolverhampton Wanderers,63,10,32,-31,22,42,21,40,10
+1981/1982,First Division 1981-82,Middlesbrough,52,15,34,-18,19,42,22,39,8
+1980/1981,First Division 1980-81,Aston Villa,40,8,72,32,8,42,1,60,26
+1980/1981,First Division 1980-81,Ipswich Town,43,10,77,34,9,42,2,56,23
+1980/1981,First Division 1980-81,Arsenal,45,15,61,16,8,42,3,53,19
+1980/1981,First Division 1980-81,West Bromwich Albion,42,12,60,18,10,42,4,52,20
+1980/1981,First Division 1980-81,Liverpool,42,17,62,20,8,42,5,51,17
+1980/1981,First Division 1980-81,Southampton,56,10,76,20,12,42,6,50,20
+1980/1981,First Division 1980-81,Nottingham Forest,44,12,62,18,11,42,7,50,19
+1980/1981,First Division 1980-81,Manchester United,36,18,51,15,9,42,8,48,15
+1980/1981,First Division 1980-81,Leeds United,47,10,39,-8,15,42,9,44,17
+1980/1981,First Division 1980-81,Tottenham Hotspurs,68,15,70,2,13,42,10,43,14
+1980/1981,First Division 1980-81,Stoke City,60,18,51,-9,12,42,11,42,12
+1980/1981,First Division 1980-81,Manchester City,59,11,56,-3,17,42,12,39,14
+1980/1981,First Division 1980-81,Birmingham City,61,12,50,-11,17,42,13,38,13
+1980/1981,First Division 1980-81,Middlesbrough,61,5,53,-8,21,42,14,37,16
+1980/1981,First Division 1980-81,Everton,58,10,55,-3,19,42,15,36,13
+1980/1981,First Division 1980-81,Coventry City,68,10,48,-20,19,42,16,36,13
+1980/1981,First Division 1980-81,Sunderland,53,7,52,-1,21,42,17,35,14
+1980/1981,First Division 1980-81,Wolverhampton Wanderers,55,9,43,-12,20,42,18,35,13
+1980/1981,First Division 1980-81,Brighton,67,7,54,-13,21,42,19,35,14
+1980/1981,First Division 1980-81,Norwich City,73,7,49,-24,22,42,20,33,13
+1980/1981,First Division 1980-81,Leicester City,67,6,40,-27,23,42,21,32,13
+1980/1981,First Division 1980-81,Crystal Palace,83,7,47,-36,29,42,22,19,6
+1979/1980,First Division 1979-80,Liverpool,30,10,81,51,7,42,1,60,25
+1979/1980,First Division 1979-80,Manchester United,35,10,65,30,8,42,2,58,24
+1979/1980,First Division 1979-80,Ipswich Town,39,9,68,29,11,42,3,53,22
+1979/1980,First Division 1979-80,Arsenal,36,16,52,16,8,42,4,52,18
+1979/1980,First Division 1979-80,Nottingham Forest,43,8,63,20,14,42,5,48,20
+1979/1980,First Division 1979-80,Wolverhampton Wanderers,47,9,58,11,14,42,6,47,19
+1979/1980,First Division 1979-80,Aston Villa,50,14,51,1,12,42,7,46,16
+1979/1980,First Division 1979-80,Southampton,53,9,65,12,15,42,8,45,18
+1979/1980,First Division 1979-80,Middlesbrough,44,12,50,6,14,42,9,44,16
+1979/1980,First Division 1979-80,West Bromwich Albion,50,19,54,4,12,42,10,41,11
+1979/1980,First Division 1979-80,Leeds United,50,14,46,-4,15,42,11,40,13
+1979/1980,First Division 1979-80,Norwich City,66,14,58,-8,15,42,12,40,13
+1979/1980,First Division 1979-80,Crystal Palace,50,16,41,-9,14,42,13,40,12
+1979/1980,First Division 1979-80,Tottenham Hotspurs,62,10,52,-10,17,42,14,40,15
+1979/1980,First Division 1979-80,Coventry City,66,7,56,-10,19,42,15,39,16
+1979/1980,First Division 1979-80,Brighton,57,15,47,-10,16,42,16,37,11
+1979/1980,First Division 1979-80,Manchester City,66,13,43,-23,17,42,17,37,12
+1979/1980,First Division 1979-80,Stoke City,58,10,44,-14,19,42,18,36,13
+1979/1980,First Division 1979-80,Everton,51,17,43,-8,16,42,19,35,9
+1979/1980,First Division 1979-80,Bristol City,66,13,37,-29,20,42,20,31,9
+1979/1980,First Division 1979-80,Derby County,67,8,47,-20,23,42,21,30,11
+1979/1980,First Division 1979-80,Bolton Wanderers,73,15,38,-35,22,42,22,25,5
+1978/1979,First Division 1978-79,Liverpool,16,8,85,69,4,42,1,68,30
+1978/1979,First Division 1978-79,Nottingham Forest,26,18,61,35,3,42,2,60,21
+1978/1979,First Division 1978-79,West Bromwich Albion,35,11,72,37,7,42,3,59,24
+1978/1979,First Division 1978-79,Everton,40,17,52,12,8,42,4,51,17
+1978/1979,First Division 1978-79,Leeds United,52,14,70,18,10,42,5,50,18
+1978/1979,First Division 1978-79,Ipswich Town,49,9,63,14,13,42,6,49,20
+1978/1979,First Division 1978-79,Arsenal,48,14,61,13,11,42,7,48,17
+1978/1979,First Division 1978-79,Aston Villa,49,16,59,10,11,42,8,46,15
+1978/1979,First Division 1978-79,Manchester United,63,15,60,-3,12,42,9,45,15
+1978/1979,First Division 1978-79,Coventry City,68,16,58,-10,12,42,10,44,14
+1978/1979,First Division 1978-79,Tottenham Hotspurs,61,15,48,-13,14,42,11,41,13
+1978/1979,First Division 1978-79,Middlesbrough,50,10,57,7,17,42,12,40,15
+1978/1979,First Division 1978-79,Bristol City,51,10,47,-4,17,42,13,40,15
+1978/1979,First Division 1978-79,Southampton,53,16,47,-6,14,42,14,40,12
+1978/1979,First Division 1978-79,Manchester City,56,13,58,2,16,42,15,39,13
+1978/1979,First Division 1978-79,Norwich City,57,23,51,-6,12,42,16,37,7
+1978/1979,First Division 1978-79,Bolton Wanderers,75,11,54,-21,19,42,17,35,12
+1978/1979,First Division 1978-79,Wolverhampton Wanderers,68,8,44,-24,21,42,18,34,13
+1978/1979,First Division 1978-79,Derby County,71,11,44,-27,21,42,19,31,10
+1978/1979,First Division 1978-79,Queens Park Rangers,73,13,45,-28,23,42,20,25,6
+1978/1979,First Division 1978-79,Birmingham City,64,10,37,-27,26,42,21,22,6
+1978/1979,First Division 1978-79,Chelsea,92,10,44,-48,27,42,22,20,5
+1977/1978,First Division 1977-78,Nottingham Forest,24,14,69,45,3,42,1,64,25
+1977/1978,First Division 1977-78,Liverpool,34,9,65,31,9,42,2,57,24
+1977/1978,First Division 1977-78,Everton,45,11,76,31,9,42,3,55,22
+1977/1978,First Division 1977-78,Manchester City,51,12,74,23,10,42,4,52,20
+1977/1978,First Division 1977-78,Arsenal,37,10,60,23,11,42,5,52,21
+1977/1978,First Division 1977-78,West Bromwich Albion,53,14,62,9,10,42,6,50,18
+1977/1978,First Division 1977-78,Coventry City,62,12,75,13,12,42,7,48,18
+1977/1978,First Division 1977-78,Aston Villa,42,10,57,15,14,42,8,46,18
+1977/1978,First Division 1977-78,Leeds United,53,10,63,10,14,42,9,46,18
+1977/1978,First Division 1977-78,Manchester United,63,10,67,4,16,42,10,42,16
+1977/1978,First Division 1977-78,Birmingham City,60,9,55,-5,17,42,11,41,16
+1977/1978,First Division 1977-78,Derby County,59,13,54,-5,15,42,12,41,14
+1977/1978,First Division 1977-78,Norwich City,66,18,52,-14,13,42,13,40,11
+1977/1978,First Division 1977-78,Middlesbrough,54,15,42,-12,15,42,14,39,12
+1977/1978,First Division 1977-78,Wolverhampton Wanderers,64,12,51,-13,18,42,15,36,12
+1977/1978,First Division 1977-78,Chelsea,69,14,46,-23,17,42,16,36,11
+1977/1978,First Division 1977-78,Bristol City,53,13,49,-4,18,42,17,35,11
+1977/1978,First Division 1977-78,Ipswich Town,61,13,47,-14,18,42,18,35,11
+1977/1978,First Division 1977-78,Queens Park Rangers,64,15,47,-17,18,42,19,33,9
+1977/1978,First Division 1977-78,West Ham United,69,8,52,-17,22,42,20,32,12
+1977/1978,First Division 1977-78,Newcastle United,78,10,42,-36,26,42,21,22,6
+1977/1978,First Division 1977-78,Leicester City,70,12,26,-44,25,42,22,22,5
+1976/1977,First Division 1976-77,Liverpool,33,11,62,29,8,42,1,57,23
+1976/1977,First Division 1976-77,Manchester City,34,14,60,26,7,42,2,56,21
+1976/1977,First Division 1976-77,Ipswich Town,39,8,66,27,12,42,3,52,22
+1976/1977,First Division 1976-77,Aston Villa,50,7,76,26,13,42,4,51,22
+1976/1977,First Division 1976-77,Newcastle United,49,13,64,15,11,42,5,49,18
+1976/1977,First Division 1976-77,Manchester United,62,11,71,9,13,42,6,47,18
+1976/1977,First Division 1976-77,West Bromwich Albion,56,13,62,6,13,42,7,45,16
+1976/1977,First Division 1976-77,Arsenal,59,11,64,5,15,42,8,43,16
+1976/1977,First Division 1976-77,Everton,64,14,62,-2,14,42,9,42,14
+1976/1977,First Division 1976-77,Leeds United,51,12,48,-3,15,42,10,42,15
+1976/1977,First Division 1976-77,Leicester City,60,18,47,-13,12,42,11,42,12
+1976/1977,First Division 1976-77,Middlesbrough,45,13,40,-5,15,42,12,41,14
+1976/1977,First Division 1976-77,Birmingham City,61,12,63,2,17,42,13,38,13
+1976/1977,First Division 1976-77,Queens Park Rangers,52,12,47,-5,17,42,14,38,13
+1976/1977,First Division 1976-77,Derby County,55,19,50,-5,14,42,15,37,9
+1976/1977,First Division 1976-77,Norwich City,64,9,47,-17,19,42,16,37,14
+1976/1977,First Division 1976-77,West Ham United,65,14,46,-19,17,42,17,36,11
+1976/1977,First Division 1976-77,Bristol City,48,13,38,-10,18,42,18,35,11
+1976/1977,First Division 1976-77,Coventry City,59,15,48,-11,17,42,19,35,10
+1976/1977,First Division 1976-77,Sunderland,54,12,46,-8,19,42,20,34,11
+1976/1977,First Division 1976-77,Stoke City,51,14,28,-23,18,42,21,34,10
+1976/1977,First Division 1976-77,Tottenham Hotspurs,72,9,48,-24,21,42,22,33,12
+1974/1975,First Division 1974-75,Derby County,49,11,67,18,10,42,1,53,21
+1974/1975,First Division 1974-75,Liverpool,39,11,60,21,11,42,2,51,20
+1974/1975,First Division 1974-75,Ipswich Town,44,5,66,22,14,42,3,51,23
+1974/1975,First Division 1974-75,Everton,42,18,56,14,8,42,4,50,16
+1974/1975,First Division 1974-75,Stoke City,48,15,64,16,10,42,5,49,17
+1974/1975,First Division 1974-75,Sheffield United,51,13,58,7,11,42,6,49,18
+1974/1975,First Division 1974-75,Middlesbrough,40,12,54,14,12,42,7,48,18
+1974/1975,First Division 1974-75,Manchester City,54,10,54,0,14,42,8,46,18
+1974/1975,First Division 1974-75,Leeds United,49,13,57,8,13,42,9,45,16
+1974/1975,First Division 1974-75,Burnley,67,11,68,1,14,42,10,45,17
+1974/1975,First Division 1974-75,Queens Park Rangers,54,10,54,0,16,42,11,42,16
+1974/1975,First Division 1974-75,Wolverhampton Wanderers,54,11,57,3,17,42,12,39,14
+1974/1975,First Division 1974-75,West Ham United,59,13,58,-1,16,42,13,39,13
+1974/1975,First Division 1974-75,Coventry City,62,15,51,-11,15,42,14,39,12
+1974/1975,First Division 1974-75,Newcastle United,72,9,59,-13,18,42,15,39,15
+1974/1975,First Division 1974-75,Arsenal,49,11,47,-2,18,42,16,37,13
+1974/1975,First Division 1974-75,Birmingham City,61,9,53,-8,19,42,17,37,14
+1974/1975,First Division 1974-75,Leicester City,60,12,46,-14,18,42,18,36,12
+1974/1975,First Division 1974-75,Tottenham Hotspurs,63,8,52,-11,21,42,19,34,13
+1974/1975,First Division 1974-75,Luton Town,65,11,47,-18,20,42,20,33,11
+1974/1975,First Division 1974-75,Chelsea,72,15,42,-30,18,42,21,33,9
+1974/1975,First Division 1974-75,Carlisle United,59,5,43,-16,25,42,22,29,12
+1973/1974,First Division 1973-74,Leeds United,31,14,66,35,4,42,1,62,24
+1973/1974,First Division 1973-74,Liverpool,31,13,52,21,7,42,2,57,22
+1973/1974,First Division 1973-74,Derby County,42,14,52,10,11,42,3,48,17
+1973/1974,First Division 1973-74,Ipswich Town,58,11,67,9,13,42,4,47,18
+1973/1974,First Division 1973-74,Stoke City,42,16,54,12,11,42,5,46,15
+1973/1974,First Division 1973-74,Burnley,53,14,56,3,12,42,6,46,16
+1973/1974,First Division 1973-74,Everton,48,12,50,2,14,42,7,44,16
+1973/1974,First Division 1973-74,Queens Park Rangers,52,17,56,4,12,42,8,43,13
+1973/1974,First Division 1973-74,Leicester City,41,16,51,10,13,42,9,42,13
+1973/1974,First Division 1973-74,Arsenal,51,14,49,-2,14,42,10,42,14
+1973/1974,First Division 1973-74,Tottenham Hotspurs,50,14,45,-5,14,42,11,42,14
+1973/1974,First Division 1973-74,Wolverhampton Wanderers,49,15,49,0,14,42,12,41,13
+1973/1974,First Division 1973-74,Sheffield United,49,12,44,-5,16,42,13,40,14
+1973/1974,First Division 1973-74,Manchester City,46,12,39,-7,16,42,14,40,14
+1973/1974,First Division 1973-74,Newcastle United,48,12,49,1,17,42,15,38,13
+1973/1974,First Division 1973-74,Coventry City,54,10,43,-11,18,42,16,38,14
+1973/1974,First Division 1973-74,Chelsea,60,13,56,-4,17,42,17,37,12
+1973/1974,First Division 1973-74,West Ham United,60,15,55,-5,16,42,18,37,11
+1973/1974,First Division 1973-74,Birmingham City,64,13,52,-12,17,42,19,37,12
+1973/1974,First Division 1973-74,Southampton,68,14,47,-21,17,42,20,36,11
+1973/1974,First Division 1973-74,Manchester United,48,12,38,-10,20,42,21,32,10
+1973/1974,First Division 1973-74,Norwich City,62,15,37,-25,20,42,22,29,7
+1972/1973,First Division 1972-73,Liverpool,42,10,72,30,7,42,1,60,25
+1972/1973,First Division 1972-73,Arsenal,43,11,57,14,8,42,2,57,23
+1972/1973,First Division 1972-73,Leeds United,45,11,71,26,10,42,3,53,21
+1972/1973,First Division 1972-73,Ipswich Town,45,14,55,10,11,42,4,48,17
+1972/1973,First Division 1972-73,Wolverhampton Wanderers,54,11,66,12,13,42,5,47,18
+1972/1973,First Division 1972-73,West Ham United,53,12,67,14,13,42,6,46,17
+1972/1973,First Division 1972-73,Derby County,54,8,56,2,15,42,7,46,19
+1972/1973,First Division 1972-73,Tottenham Hotspurs,48,13,58,10,13,42,8,45,16
+1972/1973,First Division 1972-73,Newcastle United,51,13,60,9,13,42,9,45,16
+1972/1973,First Division 1972-73,Birmingham City,54,12,53,-1,15,42,10,42,15
+1972/1973,First Division 1972-73,Manchester City,60,11,57,-3,16,42,11,41,15
+1972/1973,First Division 1972-73,Chelsea,51,14,49,-2,15,42,12,40,13
+1972/1973,First Division 1972-73,Southampton,52,18,47,-5,13,42,13,40,11
+1972/1973,First Division 1972-73,Sheffield United,59,10,51,-8,17,42,14,40,15
+1972/1973,First Division 1972-73,Stoke City,56,10,61,5,18,42,15,38,14
+1972/1973,First Division 1972-73,Leicester City,46,17,40,-6,15,42,16,37,10
+1972/1973,First Division 1972-73,Everton,49,11,41,-8,18,42,17,37,13
+1972/1973,First Division 1972-73,Manchester United,60,13,44,-16,17,42,18,37,12
+1972/1973,First Division 1972-73,Coventry City,55,9,40,-15,20,42,19,35,13
+1972/1973,First Division 1972-73,Norwich City,63,10,36,-27,21,42,20,32,11
+1972/1973,First Division 1972-73,Crystal Palace,58,12,41,-17,21,42,21,30,9
+1972/1973,First Division 1972-73,West Bromwich Albion,62,10,38,-24,23,42,22,28,9
+1971/1972,First Division 1971-72,Derby County,33,10,69,36,8,42,1,58,24
+1971/1972,First Division 1971-72,Leeds United,31,9,73,42,9,42,2,57,24
+1971/1972,First Division 1971-72,Liverpool,30,9,64,34,9,42,3,57,24
+1971/1972,First Division 1971-72,Manchester City,45,11,77,32,8,42,4,57,23
+1971/1972,First Division 1971-72,Arsenal,40,8,58,18,12,42,5,52,22
+1971/1972,First Division 1971-72,Tottenham Hotspurs,42,13,63,21,10,42,6,51,19
+1971/1972,First Division 1971-72,Chelsea,49,12,58,9,12,42,7,48,18
+1971/1972,First Division 1971-72,Manchester United,61,10,69,8,13,42,8,48,19
+1971/1972,First Division 1971-72,Wolverhampton Wanderers,57,11,65,8,13,42,9,47,18
+1971/1972,First Division 1971-72,Sheffield United,60,12,61,1,13,42,10,46,17
+1971/1972,First Division 1971-72,Newcastle United,52,11,49,-3,16,42,11,41,15
+1971/1972,First Division 1971-72,Leicester City,46,13,41,-5,16,42,12,39,13
+1971/1972,First Division 1971-72,Ipswich Town,53,16,39,-14,15,42,13,38,11
+1971/1972,First Division 1971-72,West Ham United,51,12,47,-4,18,42,14,36,12
+1971/1972,First Division 1971-72,Everton,48,18,37,-11,15,42,15,36,9
+1971/1972,First Division 1971-72,West Bromwich Albion,54,11,42,-12,19,42,16,35,12
+1971/1972,First Division 1971-72,Stoke City,56,15,39,-17,17,42,17,35,10
+1971/1972,First Division 1971-72,Coventry City,67,15,44,-23,18,42,18,33,9
+1971/1972,First Division 1971-72,Southampton,80,7,52,-28,23,42,19,31,12
+1971/1972,First Division 1971-72,Crystal Palace,65,13,39,-26,21,42,20,29,8
+1971/1972,First Division 1971-72,Nottingham Forest,81,9,47,-34,25,42,21,25,8
+1971/1972,First Division 1971-72,Huddersfield Town,59,13,27,-32,23,42,22,25,6
+1970/1971,First Division 1970-71,Arsenal,29,7,71,42,6,42,1,65,29
+1970/1971,First Division 1970-71,Leeds United,30,10,72,42,5,42,2,64,27
+1970/1971,First Division 1970-71,Tottenham Hotspurs,33,14,54,21,9,42,3,52,19
+1970/1971,First Division 1970-71,Wolverhampton Wanderers,54,8,64,10,12,42,4,52,22
+1970/1971,First Division 1970-71,Liverpool,24,17,42,18,8,42,5,51,17
+1970/1971,First Division 1970-71,Chelsea,42,15,52,10,9,42,6,51,18
+1970/1971,First Division 1970-71,Southampton,44,12,56,12,13,42,7,46,17
+1970/1971,First Division 1970-71,Manchester United,66,11,65,-1,15,42,8,43,16
+1970/1971,First Division 1970-71,Derby County,54,10,56,2,16,42,9,42,16
+1970/1971,First Division 1970-71,Coventry City,38,10,37,-1,16,42,10,42,16
+1970/1971,First Division 1970-71,Manchester City,42,17,47,5,13,42,11,41,12
+1970/1971,First Division 1970-71,Newcastle United,46,13,44,-2,15,42,12,41,14
+1970/1971,First Division 1970-71,Stoke City,48,13,44,-4,17,42,13,37,12
+1970/1971,First Division 1970-71,Everton,60,13,54,-6,17,42,14,37,12
+1970/1971,First Division 1970-71,Huddersfield Town,49,14,40,-9,17,42,15,36,11
+1970/1971,First Division 1970-71,Nottingham Forest,61,8,42,-19,20,42,16,36,14
+1970/1971,First Division 1970-71,West Bromwich Albion,75,15,58,-17,17,42,17,35,10
+1970/1971,First Division 1970-71,Crystal Palace,57,11,39,-18,19,42,18,35,12
+1970/1971,First Division 1970-71,Ipswich Town,48,10,42,-6,20,42,19,34,12
+1970/1971,First Division 1970-71,West Ham United,60,14,47,-13,18,42,20,34,10
+1970/1971,First Division 1970-71,Burnley,63,13,29,-34,22,42,21,27,7
+1970/1971,First Division 1970-71,Blackpool,66,15,34,-32,23,42,22,23,4
+1969/1970,First Division 1969-70,Everton,34,8,72,38,5,42,1,66,29
+1969/1970,First Division 1969-70,Leeds United,49,15,84,35,6,42,2,57,21
+1969/1970,First Division 1969-70,Chelsea,50,13,70,20,8,42,3,55,21
+1969/1970,First Division 1969-70,Derby County,37,9,64,27,11,42,4,53,22
+1969/1970,First Division 1969-70,Liverpool,42,11,65,23,11,42,5,51,20
+1969/1970,First Division 1969-70,Coventry City,48,11,58,10,12,42,6,49,19
+1969/1970,First Division 1969-70,Newcastle United,35,13,57,22,12,42,7,47,17
+1969/1970,First Division 1969-70,Manchester United,61,17,66,5,11,42,8,45,14
+1969/1970,First Division 1969-70,Stoke City,52,15,56,4,12,42,9,45,15
+1969/1970,First Division 1969-70,Manchester City,48,11,55,7,15,42,10,43,16
+1969/1970,First Division 1969-70,Tottenham Hotspurs,55,9,54,-1,16,42,11,43,17
+1969/1970,First Division 1969-70,Arsenal,49,18,51,2,12,42,12,42,12
+1969/1970,First Division 1969-70,Wolverhampton Wanderers,57,16,55,-2,14,42,13,40,12
+1969/1970,First Division 1969-70,Burnley,61,15,56,-5,15,42,14,39,12
+1969/1970,First Division 1969-70,Nottingham Forest,71,18,50,-21,14,42,15,38,10
+1969/1970,First Division 1969-70,West Bromwich Albion,66,9,58,-8,19,42,16,37,14
+1969/1970,First Division 1969-70,West Ham United,60,12,51,-9,18,42,17,36,12
+1969/1970,First Division 1969-70,Ipswich Town,63,11,40,-23,21,42,18,31,10
+1969/1970,First Division 1969-70,Southampton,67,17,46,-21,19,42,19,29,6
+1969/1970,First Division 1969-70,Crystal Palace,68,15,34,-34,21,42,20,27,6
+1969/1970,First Division 1969-70,Sunderland,68,14,30,-38,22,42,21,26,6
+1969/1970,First Division 1969-70,Sheffield Wednesday,71,9,40,-31,25,42,22,25,8
+1968/1969,1968/1969 First Division,Leeds United,26,13,66,40,2,42,1,67,27
+1968/1969,1968/1969 First Division,Liverpool,24,11,63,39,6,42,2,61,25
+1968/1969,1968/1969 First Division,Everton,36,15,77,41,6,42,3,57,21
+1968/1969,1968/1969 First Division,Arsenal,27,12,56,29,8,42,4,56,22
+1968/1969,1968/1969 First Division,Chelsea,53,10,73,20,12,42,5,50,20
+1968/1969,1968/1969 First Division,Tottenham Hotspurs,51,17,61,10,11,42,6,45,14
+1968/1969,1968/1969 First Division,Southampton,48,13,57,9,13,42,7,45,16
+1968/1969,1968/1969 First Division,West Ham United,50,18,66,16,11,42,8,44,13
+1968/1969,1968/1969 First Division,Newcastle United,55,14,61,6,13,42,9,44,15
+1968/1969,1968/1969 First Division,West Bromwich Albion,67,11,64,-3,15,42,10,43,16
+1968/1969,1968/1969 First Division,Manchester United,53,12,57,4,15,42,11,42,15
+1968/1969,1968/1969 First Division,Ipswich Town,60,11,59,-1,16,42,12,41,15
+1968/1969,1968/1969 First Division,Manchester City,55,10,64,9,17,42,13,40,15
+1968/1969,1968/1969 First Division,Burnley,82,9,55,-27,18,42,14,39,15
+1968/1969,1968/1969 First Division,Sheffield Wednesday,54,16,41,-13,16,42,15,36,10
+1968/1969,1968/1969 First Division,Wolverhampton Wanderers,58,15,41,-17,17,42,16,35,10
+1968/1969,1968/1969 First Division,Sunderland,67,12,43,-24,19,42,17,34,11
+1968/1969,1968/1969 First Division,Nottingham Forest,57,13,45,-12,19,42,18,33,10
+1968/1969,1968/1969 First Division,Stoke City,63,15,40,-23,18,42,19,33,9
+1968/1969,1968/1969 First Division,Coventry City,64,11,46,-18,21,42,20,31,10
+1968/1969,1968/1969 First Division,Leicester City,68,12,39,-29,21,42,21,30,9
+1968/1969,1968/1969 First Division,Queens Park Rangers,95,10,39,-56,28,42,22,18,4
+1967/1968,First Division 1967-68,Manchester City,43,6,86,43,10,42,1,58,26
+1967/1968,First Division 1967-68,Manchester United,55,8,89,34,10,42,2,56,24
+1967/1968,First Division 1967-68,Liverpool,40,11,71,31,9,42,3,55,22
+1967/1968,First Division 1967-68,Leeds United,41,9,71,30,11,42,4,53,22
+1967/1968,First Division 1967-68,Everton,40,6,67,27,13,42,5,52,23
+1967/1968,First Division 1967-68,Chelsea,68,12,62,-6,12,42,6,48,18
+1967/1968,First Division 1967-68,Tottenham Hotspurs,59,9,70,11,14,42,7,47,19
+1967/1968,First Division 1967-68,West Bromwich Albion,62,12,75,13,13,42,8,46,17
+1967/1968,First Division 1967-68,Arsenal,56,10,60,4,15,42,9,44,17
+1967/1968,First Division 1967-68,Newcastle United,67,15,54,-13,14,42,10,41,13
+1967/1968,First Division 1967-68,Nottingham Forest,64,11,52,-12,17,42,11,39,14
+1967/1968,First Division 1967-68,West Ham United,69,10,73,4,18,42,12,38,14
+1967/1968,First Division 1967-68,Leicester City,69,12,64,-5,17,42,13,38,13
+1967/1968,First Division 1967-68,Burnley,71,10,64,-7,18,42,14,38,14
+1967/1968,First Division 1967-68,Sunderland,61,11,51,-10,18,42,15,37,13
+1967/1968,First Division 1967-68,Southampton,83,11,66,-17,18,42,16,37,13
+1967/1968,First Division 1967-68,Wolverhampton Wanderers,75,8,66,-9,20,42,17,36,14
+1967/1968,First Division 1967-68,Stoke City,73,7,50,-23,21,42,18,35,14
+1967/1968,First Division 1967-68,Sheffield Wednesday,63,12,51,-12,19,42,19,34,11
+1967/1968,First Division 1967-68,Coventry City,71,15,51,-20,18,42,20,33,9
+1967/1968,First Division 1967-68,Sheffield United,70,10,49,-21,21,42,21,32,11
+1967/1968,First Division 1967-68,Fulham,98,7,56,-42,25,42,22,27,10
+1965/1966,First Division 1965-66,Liverpool,34,9,79,45,7,42,1,61,26
+1965/1966,First Division 1965-66,Leeds United,38,9,79,41,10,42,2,55,23
+1965/1966,First Division 1965-66,Burnley,47,7,79,32,11,42,3,55,24
+1965/1966,First Division 1965-66,Manchester United,59,15,84,25,9,42,4,51,18
+1965/1966,First Division 1965-66,Chelsea,53,7,65,12,13,42,5,51,22
+1965/1966,First Division 1965-66,West Bromwich Albion,69,12,91,22,11,42,6,50,19
+1965/1966,First Division 1965-66,Leicester City,65,7,80,15,14,42,7,49,21
+1965/1966,First Division 1965-66,Tottenham Hotspurs,66,12,75,9,14,42,8,44,16
+1965/1966,First Division 1965-66,Sheffield United,59,11,56,-3,15,42,9,43,16
+1965/1966,First Division 1965-66,Stoke City,64,12,65,1,15,42,10,42,15
+1965/1966,First Division 1965-66,Everton,62,11,56,-6,16,42,11,41,15
+1965/1966,First Division 1965-66,West Ham United,83,9,70,-13,18,42,12,39,15
+1965/1966,First Division 1965-66,Blackpool,65,9,55,-10,19,42,13,37,14
+1965/1966,First Division 1965-66,Arsenal,75,13,62,-13,17,42,14,37,12
+1965/1966,First Division 1965-66,Newcastle United,63,9,50,-13,19,42,15,37,14
+1965/1966,First Division 1965-66,Aston Villa,80,6,69,-11,21,42,16,36,15
+1965/1966,First Division 1965-66,Sheffield Wednesday,66,8,56,-10,20,42,17,36,14
+1965/1966,First Division 1965-66,Nottingham Forest,72,8,56,-16,20,42,18,36,14
+1965/1966,First Division 1965-66,Sunderland,72,8,51,-21,20,42,19,36,14
+1965/1966,First Division 1965-66,Fulham,85,7,67,-18,21,42,20,35,14
+1965/1966,First Division 1965-66,Northampton Town,92,13,55,-37,19,42,21,33,10
+1965/1966,First Division 1965-66,Blackburn Rovers,88,4,57,-31,30,42,22,20,8
+1964/1965,First Division 1964-65,Manchester United,39,9,89,50,7,42,1,61,26
+1964/1965,First Division 1964-65,Leeds United,52,9,83,31,7,42,2,61,26
+1964/1965,First Division 1964-65,Chelsea,54,8,89,35,10,42,3,56,24
+1964/1965,First Division 1964-65,Everton,60,15,69,9,10,42,4,49,17
+1964/1965,First Division 1964-65,Nottingham Forest,67,13,71,4,12,42,5,47,17
+1964/1965,First Division 1964-65,Tottenham Hotspurs,71,7,87,16,16,42,6,45,19
+1964/1965,First Division 1964-65,Liverpool,73,10,67,-6,15,42,7,44,17
+1964/1965,First Division 1964-65,Sheffield Wednesday,55,11,57,2,15,42,8,43,16
+1964/1965,First Division 1964-65,West Ham United,71,4,82,11,19,42,9,42,19
+1964/1965,First Division 1964-65,Blackburn Rovers,79,10,83,4,16,42,10,42,16
+1964/1965,First Division 1964-65,Stoke City,66,10,67,1,16,42,11,42,16
+1964/1965,First Division 1964-65,Burnley,70,10,70,0,16,42,12,42,16
+1964/1965,First Division 1964-65,Arsenal,75,7,69,-6,18,42,13,41,17
+1964/1965,First Division 1964-65,West Bromwich Albion,65,13,70,5,16,42,14,39,13
+1964/1965,First Division 1964-65,Sunderland,74,9,64,-10,19,42,15,37,14
+1964/1965,First Division 1964-65,Aston Villa,82,5,57,-25,21,42,16,37,16
+1964/1965,First Division 1964-65,Blackpool,78,11,67,-11,19,42,17,35,12
+1964/1965,First Division 1964-65,Leicester City,85,13,69,-16,18,42,18,35,11
+1964/1965,First Division 1964-65,Sheffield United,64,11,50,-14,19,42,19,35,12
+1964/1965,First Division 1964-65,Fulham,78,12,60,-18,19,42,20,34,11
+1964/1965,First Division 1964-65,Wolverhampton Wanderers,89,4,59,-30,25,42,21,30,13
+1964/1965,First Division 1964-65,Birmingham City,96,11,64,-32,23,42,22,27,8
+1963/1964,First Division 1963-64,Liverpool,45,5,92,47,11,42,1,57,26
+1963/1964,First Division 1963-64,Manchester United,62,7,90,28,12,42,2,53,23
+1963/1964,First Division 1963-64,Everton,64,10,84,20,11,42,3,52,21
+1963/1964,First Division 1963-64,Tottenham Hotspurs,81,7,97,16,13,42,4,51,22
+1963/1964,First Division 1963-64,Chelsea,56,10,72,16,12,42,5,50,20
+1963/1964,First Division 1963-64,Sheffield Wednesday,67,11,84,17,12,42,6,49,19
+1963/1964,First Division 1963-64,Blackburn Rovers,65,10,89,24,14,42,7,46,18
+1963/1964,First Division 1963-64,Arsenal,82,11,90,8,14,42,8,45,17
+1963/1964,First Division 1963-64,Burnley,64,10,71,7,15,42,9,44,17
+1963/1964,First Division 1963-64,West Bromwich Albion,61,11,70,9,15,42,10,43,16
+1963/1964,First Division 1963-64,Leicester City,58,11,61,3,15,42,11,43,16
+1963/1964,First Division 1963-64,Sheffield United,64,11,61,-3,15,42,12,43,16
+1963/1964,First Division 1963-64,Nottingham Forest,68,9,64,-4,17,42,13,41,16
+1963/1964,First Division 1963-64,West Ham United,74,12,69,-5,16,42,14,40,14
+1963/1964,First Division 1963-64,Fulham,65,13,58,-7,16,42,15,39,13
+1963/1964,First Division 1963-64,Wolverhampton Wanderers,80,15,70,-10,15,42,16,39,12
+1963/1964,First Division 1963-64,Stoke City,78,10,77,-1,18,42,17,38,14
+1963/1964,First Division 1963-64,Blackpool,73,9,52,-21,20,42,18,35,13
+1963/1964,First Division 1963-64,Aston Villa,71,12,62,-9,19,42,19,34,11
+1963/1964,First Division 1963-64,Birmingham City,92,7,54,-38,24,42,20,29,11
+1963/1964,First Division 1963-64,Bolton Wanderers,80,8,48,-32,24,42,21,28,10
+1963/1964,First Division 1963-64,Ipswich Town,121,7,56,-65,26,42,22,25,9
+1962/1963,First Division 1962-63,Everton,42,11,84,42,6,42,1,61,25
+1962/1963,First Division 1962-63,Tottenham Hotspurs,62,9,111,49,10,42,2,55,23
+1962/1963,First Division 1962-63,Burnley,57,10,78,21,10,42,3,54,22
+1962/1963,First Division 1962-63,Leicester City,53,12,79,26,10,42,4,52,20
+1962/1963,First Division 1962-63,Wolverhampton Wanderers,65,10,93,28,12,42,5,50,20
+1962/1963,First Division 1962-63,Sheffield Wednesday,63,10,77,14,13,42,6,48,19
+1962/1963,First Division 1962-63,Arsenal,77,10,86,9,14,42,7,46,18
+1962/1963,First Division 1962-63,Liverpool,59,10,71,12,15,42,8,44,17
+1962/1963,First Division 1962-63,Nottingham Forest,69,10,67,-2,15,42,9,44,17
+1962/1963,First Division 1962-63,Sheffield United,60,12,58,-2,14,42,10,44,16
+1962/1963,First Division 1962-63,Blackburn Rovers,71,12,79,8,15,42,11,42,15
+1962/1963,First Division 1962-63,West Ham United,69,12,73,4,16,42,12,40,14
+1962/1963,First Division 1962-63,Blackpool,64,14,58,-6,15,42,13,40,13
+1962/1963,First Division 1962-63,West Bromwich Albion,79,7,71,-8,19,42,14,39,16
+1962/1963,First Division 1962-63,Aston Villa,68,8,62,-6,19,42,15,38,15
+1962/1963,First Division 1962-63,Fulham,71,10,50,-21,18,42,16,38,14
+1962/1963,First Division 1962-63,Ipswich Town,78,11,59,-19,19,42,17,35,12
+1962/1963,First Division 1962-63,Bolton Wanderers,75,5,55,-20,22,42,18,35,15
+1962/1963,First Division 1962-63,Manchester United,81,10,67,-14,20,42,19,34,12
+1962/1963,First Division 1962-63,Birmingham City,90,13,63,-27,19,42,20,33,10
+1962/1963,First Division 1962-63,Manchester City,102,11,58,-44,21,42,21,31,10
+1962/1963,First Division 1962-63,Leyton Orient,81,9,37,-44,27,42,22,21,6
+1959/1960,First Division 1959-60,Burnley,61,7,85,24,11,42,1,55,24
+1959/1960,First Division 1959-60,Wolverhampton Wanderers,67,6,106,39,12,42,2,54,24
+1959/1960,First Division 1959-60,Tottenham Hotspurs,50,11,86,36,10,42,3,53,21
+1959/1960,First Division 1959-60,West Bromwich Albion,57,11,83,26,12,42,4,49,19
+1959/1960,First Division 1959-60,Sheffield Wednesday,59,11,80,21,12,42,5,49,19
+1959/1960,First Division 1959-60,Bolton Wanderers,51,8,59,8,14,42,6,48,20
+1959/1960,First Division 1959-60,Manchester United,80,7,102,22,16,42,7,45,19
+1959/1960,First Division 1959-60,Newcastle United,78,8,82,4,16,42,8,44,18
+1959/1960,First Division 1959-60,Preston North End,76,12,79,3,14,42,9,44,16
+1959/1960,First Division 1959-60,Fulham,80,10,73,-7,15,42,10,44,17
+1959/1960,First Division 1959-60,Blackpool,71,10,59,-12,17,42,11,40,15
+1959/1960,First Division 1959-60,Leicester City,75,13,66,-9,16,42,12,39,13
+1959/1960,First Division 1959-60,Arsenal,80,9,68,-12,18,42,13,39,15
+1959/1960,First Division 1959-60,West Ham United,91,6,75,-16,20,42,14,38,16
+1959/1960,First Division 1959-60,Everton,78,11,73,-5,18,42,15,37,13
+1959/1960,First Division 1959-60,Manchester City,84,3,78,-6,22,42,16,37,17
+1959/1960,First Division 1959-60,Blackburn Rovers,70,5,60,-10,21,42,17,37,16
+1959/1960,First Division 1959-60,Chelsea,91,9,76,-15,19,42,18,37,14
+1959/1960,First Division 1959-60,Birmingham City,80,10,63,-17,19,42,19,36,13
+1959/1960,First Division 1959-60,Nottingham Forest,74,9,50,-24,20,42,20,35,13
+1959/1960,First Division 1959-60,Leeds United,92,10,65,-27,20,42,21,34,12
+1959/1960,First Division 1959-60,Luton Town,73,12,50,-23,21,42,22,30,9
+1949/1950,First Division 1949-50,Portsmouth,38,9,74,36,11,42,1,53,22
+1949/1950,First Division 1949-50,Wolverhampton Wanderers,49,13,76,27,9,42,2,53,20
+1949/1950,First Division 1949-50,Sunderland,62,10,83,21,11,42,3,52,21
+1949/1950,First Division 1949-50,Manchester United,44,14,69,25,10,42,4,50,18
+1949/1950,First Division 1949-50,Newcastle United,55,12,77,22,11,42,5,50,19
+1949/1950,First Division 1949-50,Arsenal,55,11,79,24,12,42,6,49,19
+1949/1950,First Division 1949-50,Blackpool,35,15,46,11,10,42,7,49,17
+1949/1950,First Division 1949-50,Liverpool,54,14,64,10,11,42,8,48,17
+1949/1950,First Division 1949-50,Middlesbrough,48,7,59,11,15,42,9,47,20
+1949/1950,First Division 1949-50,Burnley,40,13,40,0,13,42,10,45,16
+1949/1950,First Division 1949-50,Derby County,61,10,69,8,15,42,11,44,17
+1949/1950,First Division 1949-50,Aston Villa,61,12,61,0,15,42,12,42,15
+1949/1950,First Division 1949-50,West Bromwich Albion,53,12,47,-6,16,42,13,40,14
+1949/1950,First Division 1949-50,Chelsea,65,16,58,-7,14,42,14,40,12
+1949/1950,First Division 1949-50,Huddersfield Town,73,9,52,-21,19,42,15,37,14
+1949/1950,First Division 1949-50,Fulham,54,14,41,-13,18,42,16,34,10
+1949/1950,First Division 1949-50,Bolton Wanderers,59,14,45,-14,18,42,17,34,10
+1949/1950,First Division 1949-50,Everton,66,14,42,-24,18,42,18,34,10
+1949/1950,First Division 1949-50,Stoke City,75,12,45,-30,19,42,19,34,11
+1949/1950,First Division 1949-50,Charlton Athletic,65,6,53,-12,23,42,20,32,13
+1949/1950,First Division 1949-50,Manchester City,68,13,36,-32,21,42,21,29,8
+1949/1950,First Division 1949-50,Birmingham City,67,14,31,-36,21,42,22,28,7
+1948/1949,First Division 1948-49,Portsmouth,42,8,84,42,9,42,1,58,25
+1948/1949,First Division 1948-49,Manchester United,44,11,77,33,10,42,2,53,21
+1948/1949,First Division 1948-49,Derby County,55,9,74,19,11,42,3,53,22
+1948/1949,First Division 1948-49,Newcastle United,56,12,70,14,10,42,4,52,20
+1948/1949,First Division 1948-49,Arsenal,44,13,74,30,11,42,5,49,18
+1948/1949,First Division 1948-49,Wolverhampton Wanderers,66,12,79,13,13,42,6,46,17
+1948/1949,First Division 1948-49,Manchester City,51,15,47,-4,12,42,7,45,15
+1948/1949,First Division 1948-49,Sunderland,58,17,49,-9,12,42,8,43,13
+1948/1949,First Division 1948-49,Charlton Athletic,67,12,63,-4,15,42,9,42,15
+1948/1949,First Division 1948-49,Aston Villa,76,10,60,-16,16,42,10,42,16
+1948/1949,First Division 1948-49,Stoke City,68,9,66,-2,17,42,11,41,16
+1948/1949,First Division 1948-49,Liverpool,43,14,53,10,15,42,12,40,13
+1948/1949,First Division 1948-49,Chelsea,68,14,69,1,16,42,13,38,12
+1948/1949,First Division 1948-49,Burnley,50,14,43,-7,16,42,14,38,12
+1948/1949,First Division 1948-49,Bolton Wanderers,68,10,59,-9,18,42,15,38,14
+1948/1949,First Division 1948-49,Blackpool,67,16,54,-13,15,42,16,38,11
+1948/1949,First Division 1948-49,Birmingham City,38,15,36,-2,16,42,17,37,11
+1948/1949,First Division 1948-49,Everton,63,11,41,-22,18,42,18,37,13
+1948/1949,First Division 1948-49,Middlesbrough,57,12,46,-11,19,42,19,34,11
+1948/1949,First Division 1948-49,Huddersfield Town,69,10,40,-29,20,42,20,34,12
+1948/1949,First Division 1948-49,Preston North End,75,11,62,-13,20,42,21,33,11
+1948/1949,First Division 1948-49,Sheffield United,78,11,57,-21,20,42,22,33,11
+1947/1948,First Division 1947-48,Arsenal,32,13,81,49,6,42,1,59,23
+1947/1948,First Division 1947-48,Manchester United,48,14,81,33,9,42,2,52,19
+1947/1948,First Division 1947-48,Burnley,43,12,56,13,10,42,3,52,20
+1947/1948,First Division 1947-48,Derby County,57,12,77,20,11,42,4,50,19
+1947/1948,First Division 1947-48,Wolverhampton Wanderers,70,9,83,13,14,42,5,47,19
+1947/1948,First Division 1947-48,Aston Villa,57,9,65,8,14,42,6,47,19
+1947/1948,First Division 1947-48,Preston North End,68,7,67,-1,15,42,7,47,20
+1947/1948,First Division 1947-48,Portsmouth,50,7,68,18,16,42,8,45,19
+1947/1948,First Division 1947-48,Blackpool,41,10,57,16,15,42,9,44,17
+1947/1948,First Division 1947-48,Manchester City,47,12,52,5,15,42,10,42,15
+1947/1948,First Division 1947-48,Liverpool,61,10,65,4,16,42,11,42,16
+1947/1948,First Division 1947-48,Sheffield United,70,10,65,-5,16,42,12,42,16
+1947/1948,First Division 1947-48,Charlton Athletic,66,6,57,-9,19,42,13,40,17
+1947/1948,First Division 1947-48,Everton,66,6,52,-14,19,42,14,40,17
+1947/1948,First Division 1947-48,Stoke City,55,10,41,-14,18,42,15,38,14
+1947/1948,First Division 1947-48,Middlesbrough,73,9,71,-2,19,42,16,37,14
+1947/1948,First Division 1947-48,Bolton Wanderers,58,5,46,-12,21,42,17,37,16
+1947/1948,First Division 1947-48,Chelsea,71,9,53,-18,19,42,18,37,14
+1947/1948,First Division 1947-48,Huddersfield Town,60,12,51,-9,18,42,19,36,12
+1947/1948,First Division 1947-48,Sunderland,67,10,56,-11,19,42,20,36,13
+1947/1948,First Division 1947-48,Blackburn Rovers,72,10,54,-18,21,42,21,32,11
+1947/1948,First Division 1947-48,Grimsby Town,111,6,45,-66,28,42,22,22,8
+1946/1947,First Division 1946-47,Liverpool,52,7,84,32,10,42,1,57,25
+1946/1947,First Division 1946-47,Wolverhampton Wanderers,56,6,98,42,11,42,2,56,25
+1946/1947,First Division 1946-47,Manchester United,54,12,95,41,8,42,3,56,22
+1946/1947,First Division 1946-47,Stoke City,53,7,90,37,11,42,4,55,24
+1946/1947,First Division 1946-47,Blackpool,70,6,71,1,14,42,5,50,22
+1946/1947,First Division 1946-47,Sheffield United,75,7,89,14,14,42,6,49,21
+1946/1947,First Division 1946-47,Preston North End,74,11,76,2,13,42,7,47,18
+1946/1947,First Division 1946-47,Aston Villa,53,9,67,14,15,42,8,45,18
+1946/1947,First Division 1946-47,Sunderland,66,8,65,-1,16,42,9,44,18
+1946/1947,First Division 1946-47,Everton,67,9,62,-5,16,42,10,43,17
+1946/1947,First Division 1946-47,Middlesbrough,68,8,73,5,17,42,11,42,17
+1946/1947,First Division 1946-47,Portsmouth,60,9,66,6,17,42,12,41,16
+1946/1947,First Division 1946-47,Arsenal,70,9,72,2,17,42,13,41,16
+1946/1947,First Division 1946-47,Derby County,79,5,73,-6,19,42,14,41,18
+1946/1947,First Division 1946-47,Chelsea,84,7,69,-15,19,42,15,39,16
+1946/1947,First Division 1946-47,Grimsby Town,82,12,61,-21,17,42,16,38,13
+1946/1947,First Division 1946-47,Blackburn Rovers,53,8,45,-8,20,42,17,36,14
+1946/1947,First Division 1946-47,Bolton Wanderers,69,8,57,-12,21,42,18,34,13
+1946/1947,First Division 1946-47,Charlton Athletic,71,12,57,-14,19,42,19,34,11
+1946/1947,First Division 1946-47,Huddersfield Town,79,7,53,-26,22,42,20,33,13
+1946/1947,First Division 1946-47,Brentford,88,7,45,-43,26,42,21,25,9
+1946/1947,First Division 1946-47,Leeds United,90,6,45,-45,30,42,22,18,6
+1938/1939,First Division 1938-39,Everton,52,5,88,36,10,42,1,59,27
+1938/1939,First Division 1938-39,Wolverhampton Wanderers,39,11,88,49,9,42,2,55,22
+1938/1939,First Division 1938-39,Charlton Athletic,59,6,75,16,14,42,3,50,22
+1938/1939,First Division 1938-39,Middlesbrough,74,9,93,19,13,42,4,49,20
+1938/1939,First Division 1938-39,Arsenal,41,9,55,14,14,42,5,47,19
+1938/1939,First Division 1938-39,Derby County,55,8,66,11,15,42,6,46,19
+1938/1939,First Division 1938-39,Stoke City,68,12,71,3,13,42,7,46,17
+1938/1939,First Division 1938-39,Bolton Wanderers,58,15,67,9,12,42,8,45,15
+1938/1939,First Division 1938-39,Preston North End,59,12,63,4,14,42,9,44,16
+1938/1939,First Division 1938-39,Grimsby Town,69,11,61,-8,15,42,10,43,16
+1938/1939,First Division 1938-39,Liverpool,63,14,62,-1,14,42,11,42,14
+1938/1939,First Division 1938-39,Aston Villa,60,9,71,11,17,42,12,41,16
+1938/1939,First Division 1938-39,Leeds United,67,9,59,-8,17,42,13,41,16
+1938/1939,First Division 1938-39,Manchester United,65,16,57,-8,15,42,14,38,11
+1938/1939,First Division 1938-39,Blackpool,68,14,56,-12,16,42,15,38,12
+1938/1939,First Division 1938-39,Sunderland,67,12,54,-13,17,42,16,38,13
+1938/1939,First Division 1938-39,Portsmouth,70,13,47,-23,17,42,17,37,12
+1938/1939,First Division 1938-39,Brentford,74,8,53,-21,20,42,18,36,14
+1938/1939,First Division 1938-39,Huddersfield Town,64,11,58,-6,19,42,19,35,12
+1938/1939,First Division 1938-39,Chelsea,80,9,64,-16,21,42,20,33,12
+1938/1939,First Division 1938-39,Birmingham City,84,8,62,-22,22,42,21,32,12
+1938/1939,First Division 1938-39,Leicester City,82,11,48,-34,22,42,22,29,9
+1937/1938,First Division 1937-38,Arsenal,44,10,77,33,11,42,1,52,21
+1937/1938,First Division 1937-38,Wolverhampton Wanderers,49,11,72,23,11,42,2,51,20
+1937/1938,First Division 1937-38,Preston North End,44,17,64,20,9,42,3,49,16
+1937/1938,First Division 1937-38,Charlton Athletic,51,14,65,14,12,42,4,46,16
+1937/1938,First Division 1937-38,Middlesbrough,65,8,72,7,15,42,5,46,19
+1937/1938,First Division 1937-38,Brentford,59,9,69,10,15,42,6,45,18
+1937/1938,First Division 1937-38,Bolton Wanderers,60,15,64,4,12,42,7,45,15
+1937/1938,First Division 1937-38,Sunderland,57,16,55,-2,12,42,8,44,14
+1937/1938,First Division 1937-38,Leeds United,69,15,64,-5,13,42,9,43,14
+1937/1938,First Division 1937-38,Chelsea,65,13,65,0,15,42,10,41,14
+1937/1938,First Division 1937-38,Liverpool,71,11,65,-6,16,42,11,41,15
+1937/1938,First Division 1937-38,Blackpool,66,8,61,-5,18,42,12,40,16
+1937/1938,First Division 1937-38,Derby County,87,10,66,-21,17,42,13,40,15
+1937/1938,First Division 1937-38,Everton,75,7,79,4,19,42,14,39,16
+1937/1938,First Division 1937-38,Huddersfield Town,68,5,55,-13,20,42,15,39,17
+1937/1938,First Division 1937-38,Leicester City,75,11,54,-21,17,42,16,39,14
+1937/1938,First Division 1937-38,Stoke City,59,12,58,-1,17,42,17,38,13
+1937/1938,First Division 1937-38,Birmingham City,62,18,58,-4,14,42,18,38,10
+1937/1938,First Division 1937-38,Portsmouth,68,12,62,-6,17,42,19,38,13
+1937/1938,First Division 1937-38,Grimsby Town,68,12,51,-17,17,42,20,38,13
+1937/1938,First Division 1937-38,Manchester City,77,8,80,3,20,42,21,36,14
+1937/1938,First Division 1937-38,West Bromwich Albion,91,8,74,-17,20,42,22,36,14
+1936/1937,First Division 1936-37,Manchester City,61,13,107,46,7,42,1,57,22
+1936/1937,First Division 1936-37,Charlton Athletic,49,12,58,9,9,42,2,54,21
+1936/1937,First Division 1936-37,Arsenal,49,16,80,31,8,42,3,52,18
+1936/1937,First Division 1936-37,Derby County,90,7,96,6,14,42,4,49,21
+1936/1937,First Division 1936-37,Wolverhampton Wanderers,67,5,84,17,16,42,5,47,21
+1936/1937,First Division 1936-37,Brentford,78,10,82,4,14,42,6,46,18
+1936/1937,First Division 1936-37,Middlesbrough,71,8,74,3,15,42,7,46,19
+1936/1937,First Division 1936-37,Sunderland,87,6,89,2,17,42,8,44,19
+1936/1937,First Division 1936-37,Portsmouth,66,10,62,-4,15,42,9,44,17
+1936/1937,First Division 1936-37,Stoke City,57,12,72,15,15,42,10,42,15
+1936/1937,First Division 1936-37,Grimsby Town,81,7,86,5,18,42,11,41,17
+1936/1937,First Division 1936-37,Birmingham City,60,15,64,4,14,42,12,41,13
+1936/1937,First Division 1936-37,Chelsea,55,13,52,-3,15,42,13,41,14
+1936/1937,First Division 1936-37,Preston North End,67,13,56,-11,15,42,14,41,14
+1936/1937,First Division 1936-37,Huddersfield Town,64,15,62,-2,15,42,15,39,12
+1936/1937,First Division 1936-37,West Bromwich Albion,98,6,77,-21,20,42,16,38,16
+1936/1937,First Division 1936-37,Everton,78,9,81,3,19,42,17,37,14
+1936/1937,First Division 1936-37,Liverpool,84,11,62,-22,19,42,18,35,12
+1936/1937,First Division 1936-37,Leeds United,80,4,60,-20,23,42,19,34,15
+1936/1937,First Division 1936-37,Bolton Wanderers,66,14,43,-23,18,42,20,34,10
+1936/1937,First Division 1936-37,Manchester United,78,12,55,-23,20,42,21,32,10
+1936/1937,First Division 1936-37,Sheffield Wednesday,69,12,53,-16,21,42,22,30,9
+1919/1920,1919/1920 First Division,West Bromwich Albion,47,4,104,57,10,42,1,60,28
+1919/1920,1919/1920 First Division,Burnley,59,9,65,6,12,42,2,51,21
+1919/1920,1919/1920 First Division,Chelsea,51,5,56,5,15,42,3,49,22
+1919/1920,1919/1920 First Division,Liverpool,44,10,59,15,13,42,4,48,19
+1919/1920,1919/1920 First Division,Sunderland,59,4,72,13,16,42,5,48,22
+1919/1920,1919/1920 First Division,Bolton Wanderers,65,9,72,7,14,42,6,47,19
+1919/1920,1919/1920 First Division,Manchester City,62,9,71,9,15,42,7,45,18
+1919/1920,1919/1920 First Division,Newcastle United,39,9,44,5,16,42,8,43,17
+1919/1920,1919/1920 First Division,Aston Villa,73,6,75,2,18,42,9,42,18
+1919/1920,1919/1920 First Division,Arsenal,58,12,56,-2,15,42,10,42,15
+1919/1920,1919/1920 First Division,Bradford,63,12,60,-3,15,42,11,42,15
+1919/1920,1919/1920 First Division,Manchester United,50,14,54,4,15,42,12,40,13
+1919/1920,1919/1920 First Division,Middlesbrough,65,10,61,-4,17,42,13,40,15
+1919/1920,1919/1920 First Division,Sheffield United,69,8,59,-10,18,42,14,40,16
+1919/1920,1919/1920 First Division,Bradford City,63,11,54,-9,17,42,15,39,14
+1919/1920,1919/1920 First Division,Everton,68,14,69,1,16,42,16,38,12
+1919/1920,1919/1920 First Division,Oldham Athletic,52,8,49,-3,19,42,17,38,15
+1919/1920,1919/1920 First Division,Derby County,57,12,47,-10,17,42,18,38,13
+1919/1920,1919/1920 First Division,Preston North End,73,10,57,-16,18,42,19,38,14
+1919/1920,1919/1920 First Division,Blackburn Rovers,77,11,64,-13,18,42,20,37,13
+1919/1920,1919/1920 First Division,Notts County,74,12,56,-18,18,42,21,36,12
+1919/1920,1919/1920 First Division,Sheffield Wednesday,64,9,28,-36,26,42,22,23,7
+1891/1892,First Division 1891-92,Sunderland,36,0,93,57,5,26,1,42,21
+1891/1892,First Division 1891-92,Preston North End,31,1,61,30,7,26,2,37,18
+1891/1892,First Division 1891-92,Bolton Wanderers,37,2,51,14,7,26,3,36,17
+1891/1892,First Division 1891-92,Aston Villa,56,0,89,33,11,26,4,30,15
+1891/1892,First Division 1891-92,Everton,49,4,49,0,10,26,5,28,12
+1891/1892,First Division 1891-92,Wolverhampton Wanderers,46,4,59,13,11,26,6,26,11
+1891/1892,First Division 1891-92,Burnley,45,4,49,4,11,26,7,26,11
+1891/1892,First Division 1891-92,Notts County,51,4,55,4,11,26,8,26,11
+1891/1892,First Division 1891-92,Blackburn Rovers,65,6,58,-7,10,26,9,26,10
+1891/1892,First Division 1891-92,Derby County,52,4,46,-6,12,26,10,24,10
+1891/1892,First Division 1891-92,Accrington Stanley,78,4,40,-38,14,26,11,20,8
+1891/1892,First Division 1891-92,West Bromwich Albion,58,6,51,-7,14,26,12,18,6
+1891/1892,First Division 1891-92,Stoke City,61,4,38,-23,17,26,13,14,5
+1891/1892,First Division 1891-92,Darwen,112,3,38,-74,19,26,14,11,4
+1890/1891,First Division 1890-91,Everton,29,1,63,34,7,22,1,29,14
+1890/1891,First Division 1890-91,Preston North End,23,3,44,21,7,22,2,27,12
+1890/1891,First Division 1890-91,Notts County,35,4,52,17,7,22,3,26,11
+1890/1891,First Division 1890-91,Wolverhampton Wanderers,50,2,39,-11,8,22,4,26,12
+1890/1891,First Division 1890-91,Bolton Wanderers,34,1,47,13,9,22,5,25,12
+1890/1891,First Division 1890-91,Blackburn Rovers,43,2,52,9,9,22,6,24,11
+1890/1891,First Division 1890-91,Sunderland,31,5,51,20,7,22,7,23,10
+1890/1891,First Division 1890-91,Burnley,63,3,52,-11,10,22,8,21,9
+1890/1891,First Division 1890-91,Aston Villa,58,4,45,-13,11,22,9,18,7
+1890/1891,First Division 1890-91,Accrington Stanley,50,4,28,-22,12,22,10,16,6
+1890/1891,First Division 1890-91,Derby County,81,1,47,-34,14,22,11,15,7
+1890/1891,First Division 1890-91,West Bromwich Albion,57,2,34,-23,15,22,12,12,5
+1889/1890,First Division 1889-90,Preston North End,30,3,71,41,4,22,1,33,15
+1889/1890,First Division 1889-90,Everton,40,3,65,25,5,22,2,31,14
+1889/1890,First Division 1889-90,Blackburn Rovers,41,3,78,37,7,22,3,27,12
+1889/1890,First Division 1889-90,Wolverhampton Wanderers,38,5,51,13,7,22,4,25,10
+1889/1890,First Division 1889-90,West Bromwich Albion,50,3,47,-3,8,22,5,25,11
+1889/1890,First Division 1889-90,Accrington Stanley,56,6,53,-3,7,22,6,24,9
+1889/1890,First Division 1889-90,Derby County,55,3,43,-12,10,22,7,21,9
+1889/1890,First Division 1889-90,Aston Villa,51,5,43,-8,10,22,8,19,7
+1889/1890,First Division 1889-90,Bolton Wanderers,65,1,54,-11,12,22,9,19,9
+1889/1890,First Division 1889-90,Notts County,51,5,43,-8,11,22,10,17,6
+1889/1890,First Division 1889-90,Burnley,65,5,36,-29,13,22,11,13,4
+1889/1890,First Division 1889-90,Stoke City,69,4,27,-42,15,22,12,10,3
+1888/1889,First Division 1888-89,Preston North End,15,4,74,59,0,22,1,40,18
+1888/1889,First Division 1888-89,Aston Villa,43,5,61,18,5,22,2,29,12
+1888/1889,First Division 1888-89,Wolverhampton Wanderers,37,4,50,13,6,22,3,28,12
+1888/1889,First Division 1888-89,Blackburn Rovers,45,6,66,21,6,22,4,26,10
+1888/1889,First Division 1888-89,Bolton Wanderers,59,2,63,4,10,22,5,22,10
+1888/1889,First Division 1888-89,West Bromwich Albion,46,2,40,-6,10,22,6,22,10
+1888/1889,First Division 1888-89,Accrington Stanley,48,8,48,0,8,22,7,20,6
+1888/1889,First Division 1888-89,Everton,46,2,35,-11,11,22,8,20,9
+1888/1889,First Division 1888-89,Burnley,62,3,42,-20,12,22,9,17,7
+1888/1889,First Division 1888-89,Derby County,60,2,41,-19,13,22,10,16,7
+1888/1889,First Division 1888-89,Notts County,73,2,39,-34,15,22,11,12,5
+1888/1889,First Division 1888-89,Stoke City,51,4,26,-25,14,22,12,12,4
