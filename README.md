@@ -2,8 +2,6 @@
 
 **Authors**: Rahul Purushottam Gaonkar (rpg283), Achyut Tibrewalla (at3617), Divyanshu Singh (ds5387)
 
-Group 3 Online
-
 ![Page_Screenshot](images/Page_Screenshot.png)
 
 ## About
